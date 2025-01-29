@@ -1,0 +1,3074 @@
+[
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e102-01.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-01.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-01.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-01.lua:11:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-01.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-01.lua:11:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-01.tex",
+    "lnum": 10,
+    "end_lnum": 0,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E102 expl3 material in non-expl3 parts",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-01.tex:10:5: error: E102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-01.tex",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E102 expl3 material in non-expl3 parts",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-01.tex:13:1: error: E102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-01.tex",
+    "lnum": 7,
+    "end_lnum": 0,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W101 unexpected delimiters",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-01.tex:7:5: warning: W101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e102-02.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-02.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e102-03.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-03.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-03.lua",
+    "lnum": 17,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-03.lua:17:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-03.lua",
+    "lnum": 17,
+    "end_lnum": 0,
+    "col": 39,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-03.lua:17:39: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-03.tex",
+    "lnum": 3,
+    "end_lnum": 0,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E102 expl3 material in non-expl3 parts",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-03.tex:3:5: error: E102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-03.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 8,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E102 expl3 material in non-expl3 parts",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-03.tex:5:8: error: E102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102-03.tex",
+    "lnum": 7,
+    "end_lnum": 0,
+    "col": 10,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E102 expl3 material in non-expl3 parts",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102-03.tex:7:10: error: E102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e102.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e102.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102.lua",
+    "lnum": 17,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102.lua:17:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102.lua",
+    "lnum": 17,
+    "end_lnum": 0,
+    "col": 38,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102.lua:17:38: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102.tex",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E102 expl3 material in non-expl3 parts",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102.tex:11:1: error: E102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e102.tex",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E102 expl3 material in non-expl3 parts",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e102.tex:12:3: error: E102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e104.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e104.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e104.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e104.lua:20:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e104.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e104.lua:21:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e104.tex",
+    "lnum": 4,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E104 multiple delimiters `\\ProvidesExpl*` in a single file",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e104.tex:4:1: error: E104 multiple delimiters `\\ProvidesExpl*` in a single file"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e201.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e201.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.lua:13:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e201.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.lua:13:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e201.lua",
+    "lnum": 15,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.lua:15:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e201.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.lua:21:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e201.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.lua:21:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e201.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E201 unknown argument specifiers",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.tex:2:3: error: E201 unknown argument specifiers"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e201.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e201.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S205 malformed function name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e201.tex:2:3: warning: S205 malformed function name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e203.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e203.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e203.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e203.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e203.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e203.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 36,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.lua:20:36: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e203.tex",
+    "lnum": 1,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E203 removed control sequences",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.tex:1:1: error: E203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e203.tex",
+    "lnum": 4,
+    "end_lnum": 0,
+    "col": 5,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E203 removed control sequences",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.tex:4:5: error: E203 removed control sequences"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e203.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e203.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e208.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.lua:13:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.lua:13:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.lua",
+    "lnum": 15,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.lua:15:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.lua:21:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.lua:21:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 15,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E208 too many closing braces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.tex:5:15: error: E208 too many closing braces"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e208.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.tex:2:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e208.tex",
+    "lnum": 4,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e208.tex:4:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e209.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e209.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.lua:13:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e209.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.lua:13:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e209.lua",
+    "lnum": 15,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.lua:15:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e209.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.lua:21:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e209.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 36,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.lua:21:36: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e209.tex",
+    "lnum": 1,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E209 invalid characters",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.tex:1:1: error: E209 invalid characters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/e209.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 4,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "error: E209 invalid characters",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.tex:2:4: error: E209 invalid characters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/e209.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/e209.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s103.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s103.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s103.lua",
+    "lnum": 25,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s103.lua:25:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s103.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s103.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s103.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s103.tex:2:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s204.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 45,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.lua:20:45: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s204.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.tex",
+    "lnum": 3,
+    "end_lnum": 0,
+    "col": 19,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.tex:3:19: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 20,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.tex:5:20: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 24,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.tex:5:24: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 25,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.tex:5:25: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s204.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s204.tex:5:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-01.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-01.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-01.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-01.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-01.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-01.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.lua:20:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-01.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-01.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-01.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S205 malformed function name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-01.tex:2:3: warning: S205 malformed function name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-02.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-02.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-02.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-02.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-02.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-02.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.lua:20:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-02.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-02.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-02.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S205 malformed function name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-02.tex:2:3: warning: S205 malformed function name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-03.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-03.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-03.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-03.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-03.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-03.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.lua:20:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-03.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-03.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-03.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S205 malformed function name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-03.tex:2:3: warning: S205 malformed function name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-04.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-04.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-04.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-04.lua:11:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s205-04.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-04.lua:11:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s205-04.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s205-04.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s206-01.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 39,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.lua:20:39: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s206-01.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.tex:2:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.tex",
+    "lnum": 4,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.tex:4:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-01.tex",
+    "lnum": 6,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-01.tex:6:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s206-02.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-02.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-02.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-02.lua:11:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-02.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-02.lua:11:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s206-02.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-02.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s206-03.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-03.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-03.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-03.lua:11:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s206-03.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-03.lua:11:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s206-03.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s206-03.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-01.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-01.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-01.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-01.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-01.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-01.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.lua:20:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-01.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-01.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-01.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S207 malformed quark or scan mark name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-01.tex:2:3: warning: S207 malformed quark or scan mark name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-02.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-02.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-02.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-02.lua:11:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-02.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-02.lua:11:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-02.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-02.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-03.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-03.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-03.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-03.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-03.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-03.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.lua:20:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-03.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-03.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-03.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S207 malformed quark or scan mark name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-03.tex:2:3: warning: S207 malformed quark or scan mark name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-04.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-04.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-04.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-04.lua:11:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/s207-04.lua",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-04.lua:11:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/s207-04.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/s207-04.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w100-01.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w100-01.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w100-02.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w100-02.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w100-03.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w100-03.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w100.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w100.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w100.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w100.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w100.tex",
+    "lnum": 3,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w100.tex:3:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w100.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w100.tex:5:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w100.tex",
+    "lnum": 11,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w100.tex:11:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w101.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.lua",
+    "lnum": 17,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.lua:17:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.lua",
+    "lnum": 17,
+    "end_lnum": 0,
+    "col": 36,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.lua:17:36: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.lua:21:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W101 unexpected delimiters",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.tex:2:1: warning: W101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.tex:5:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.tex",
+    "lnum": 7,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.tex:7:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.tex",
+    "lnum": 9,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W101 unexpected delimiters",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.tex:9:1: warning: W101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w101.tex",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S206 malformed variable or constant name",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w101.tex:14:3: warning: S206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w200.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.lua:13:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.lua",
+    "lnum": 13,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.lua:13:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.lua",
+    "lnum": 15,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.lua:15:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.lua:21:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.lua",
+    "lnum": 21,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.lua:21:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.lua",
+    "lnum": 25,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.lua:25:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w200.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.tex",
+    "lnum": 2,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W200 \"weird\" and \"do not use\" argument specifiers",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.tex:2:3: warning: W200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.tex",
+    "lnum": 3,
+    "end_lnum": 0,
+    "col": 6,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W200 \"weird\" and \"do not use\" argument specifiers",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.tex:3:6: warning: W200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.tex",
+    "lnum": 5,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W200 \"weird\" and \"do not use\" argument specifiers",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.tex:5:1: warning: W200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.tex",
+    "lnum": 6,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W200 \"weird\" and \"do not use\" argument specifiers",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.tex:6:3: warning: W200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.tex",
+    "lnum": 7,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W200 \"weird\" and \"do not use\" argument specifiers",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.tex:7:3: warning: W200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w200.tex",
+    "lnum": 8,
+    "end_lnum": 0,
+    "col": 3,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W200 \"weird\" and \"do not use\" argument specifiers",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w200.tex:8:3: warning: W200 \"weird\" and \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w202.lua: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.lua: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w202.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 18,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.lua:12:18: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w202.lua",
+    "lnum": 12,
+    "end_lnum": 0,
+    "col": 48,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.lua:12:48: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w202.lua",
+    "lnum": 14,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.lua:14:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w202.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 32,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.lua:20:32: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w202.lua",
+    "lnum": 20,
+    "end_lnum": 0,
+    "col": 33,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S204 missing stylistic whitespaces",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.lua:20:33: warning: S204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w202.lua",
+    "lnum": 24,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: S103 line too long",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.lua:24:1: warning: S103 line too long"
+    ]
+  },
+  {
+    "filename": "",
+    "lnum": 0,
+    "end_lnum": 0,
+    "col": 0,
+    "end_col": 0,
+    "vcol": false,
+    "nr": -1,
+    "pattern": "",
+    "text": "expltools/explcheck/testfiles/w202.tex: warning: W100 no standard delimiters",
+    "type": 0,
+    "valid": false,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.tex: warning: W100 no standard delimiters"
+    ]
+  },
+  {
+    "filename": "expltools/explcheck/testfiles/w202.tex",
+    "lnum": 1,
+    "end_lnum": 0,
+    "col": 1,
+    "end_col": 0,
+    "vcol": false,
+    "nr": 0,
+    "pattern": "",
+    "text": "warning: W202 deprecated control sequences",
+    "type": 0,
+    "valid": true,
+    "lines": [
+      "expltools/explcheck/testfiles/w202.tex:1:1: warning: W202 deprecated control sequences"
+    ]
+  }
+]

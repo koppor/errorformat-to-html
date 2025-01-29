@@ -1,0 +1,192 @@
+expltools/explcheck/testfiles/e102-01.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e102-01.lua:11:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e102-01.lua:11:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e102-01.tex:10:5: error: E102 expl3 material in non-expl3 parts
+expltools/explcheck/testfiles/e102-01.tex:13:1: error: E102 expl3 material in non-expl3 parts
+expltools/explcheck/testfiles/e102-01.tex:7:5: warning: W101 unexpected delimiters
+expltools/explcheck/testfiles/e102-02.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e102-03.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e102-03.lua:17:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e102-03.lua:17:39: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e102-03.tex:3:5: error: E102 expl3 material in non-expl3 parts
+expltools/explcheck/testfiles/e102-03.tex:5:8: error: E102 expl3 material in non-expl3 parts
+expltools/explcheck/testfiles/e102-03.tex:7:10: error: E102 expl3 material in non-expl3 parts
+expltools/explcheck/testfiles/e102.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e102.lua:17:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e102.lua:17:38: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e102.tex:11:1: error: E102 expl3 material in non-expl3 parts
+expltools/explcheck/testfiles/e102.tex:12:3: error: E102 expl3 material in non-expl3 parts
+expltools/explcheck/testfiles/e104.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e104.lua:20:1: warning: S103 line too long
+expltools/explcheck/testfiles/e104.lua:21:1: warning: S103 line too long
+expltools/explcheck/testfiles/e104.tex:4:1: error: E104 multiple delimiters `\ProvidesExpl*` in a single file
+expltools/explcheck/testfiles/e201.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e201.lua:13:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e201.lua:13:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e201.lua:15:1: warning: S103 line too long
+expltools/explcheck/testfiles/e201.lua:21:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e201.lua:21:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e201.tex:2:3: error: E201 unknown argument specifiers
+expltools/explcheck/testfiles/e201.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e201.tex:2:3: warning: S205 malformed function name
+expltools/explcheck/testfiles/e203.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e203.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e203.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e203.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/e203.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e203.lua:20:36: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e203.tex:1:1: error: E203 removed control sequences
+expltools/explcheck/testfiles/e203.tex:4:5: error: E203 removed control sequences
+expltools/explcheck/testfiles/e203.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e208.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e208.lua:13:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e208.lua:13:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e208.lua:15:1: warning: S103 line too long
+expltools/explcheck/testfiles/e208.lua:21:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e208.lua:21:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e208.tex:5:15: error: E208 too many closing braces
+expltools/explcheck/testfiles/e208.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e208.tex:2:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/e208.tex:4:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/e209.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/e209.lua:13:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e209.lua:13:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e209.lua:15:1: warning: S103 line too long
+expltools/explcheck/testfiles/e209.lua:21:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e209.lua:21:36: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/e209.tex:1:1: error: E209 invalid characters
+expltools/explcheck/testfiles/e209.tex:2:4: error: E209 invalid characters
+expltools/explcheck/testfiles/e209.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s103.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s103.lua:25:1: warning: S103 line too long
+expltools/explcheck/testfiles/s103.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s103.tex:2:1: warning: S103 line too long
+expltools/explcheck/testfiles/s204.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s204.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/s204.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.lua:20:45: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/s204.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s204.tex:3:19: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.tex:5:20: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.tex:5:24: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.tex:5:25: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s204.tex:5:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-01.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s205-01.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-01.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-01.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/s205-01.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-01.lua:20:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-01.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/s205-01.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s205-01.tex:2:3: warning: S205 malformed function name
+expltools/explcheck/testfiles/s205-02.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s205-02.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-02.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-02.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/s205-02.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-02.lua:20:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-02.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/s205-02.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s205-02.tex:2:3: warning: S205 malformed function name
+expltools/explcheck/testfiles/s205-03.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s205-03.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-03.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-03.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/s205-03.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-03.lua:20:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-03.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/s205-03.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s205-03.tex:2:3: warning: S205 malformed function name
+expltools/explcheck/testfiles/s205-04.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s205-04.lua:11:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-04.lua:11:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s205-04.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s206-01.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s206-01.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-01.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-01.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/s206-01.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-01.lua:20:39: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-01.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/s206-01.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s206-01.tex:2:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/s206-01.tex:4:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/s206-01.tex:6:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/s206-02.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s206-02.lua:11:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-02.lua:11:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-02.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s206-03.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s206-03.lua:11:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-03.lua:11:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s206-03.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-01.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-01.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-01.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-01.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/s207-01.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-01.lua:20:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-01.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/s207-01.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-01.tex:2:3: warning: S207 malformed quark or scan mark name
+expltools/explcheck/testfiles/s207-02.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-02.lua:11:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-02.lua:11:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-02.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-03.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-03.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-03.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-03.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/s207-03.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-03.lua:20:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-03.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/s207-03.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-03.tex:2:3: warning: S207 malformed quark or scan mark name
+expltools/explcheck/testfiles/s207-04.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/s207-04.lua:11:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-04.lua:11:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/s207-04.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w100-01.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w100-02.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w100-03.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w100.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w100.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w100.tex:3:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/w100.tex:5:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/w100.tex:11:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/w101.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w101.lua:17:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w101.lua:17:36: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w101.lua:21:1: warning: S103 line too long
+expltools/explcheck/testfiles/w101.tex:2:1: warning: W101 unexpected delimiters
+expltools/explcheck/testfiles/w101.tex:5:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/w101.tex:7:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/w101.tex:9:1: warning: W101 unexpected delimiters
+expltools/explcheck/testfiles/w101.tex:14:3: warning: S206 malformed variable or constant name
+expltools/explcheck/testfiles/w200.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w200.lua:13:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w200.lua:13:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w200.lua:15:1: warning: S103 line too long
+expltools/explcheck/testfiles/w200.lua:21:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w200.lua:21:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w200.lua:25:1: warning: S103 line too long
+expltools/explcheck/testfiles/w200.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w200.tex:2:3: warning: W200 "weird" and "do not use" argument specifiers
+expltools/explcheck/testfiles/w200.tex:3:6: warning: W200 "weird" and "do not use" argument specifiers
+expltools/explcheck/testfiles/w200.tex:5:1: warning: W200 "weird" and "do not use" argument specifiers
+expltools/explcheck/testfiles/w200.tex:6:3: warning: W200 "weird" and "do not use" argument specifiers
+expltools/explcheck/testfiles/w200.tex:7:3: warning: W200 "weird" and "do not use" argument specifiers
+expltools/explcheck/testfiles/w200.tex:8:3: warning: W200 "weird" and "do not use" argument specifiers
+expltools/explcheck/testfiles/w202.lua: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w202.lua:12:18: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w202.lua:12:48: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w202.lua:14:1: warning: S103 line too long
+expltools/explcheck/testfiles/w202.lua:20:32: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w202.lua:20:33: warning: S204 missing stylistic whitespaces
+expltools/explcheck/testfiles/w202.lua:24:1: warning: S103 line too long
+expltools/explcheck/testfiles/w202.tex: warning: W100 no standard delimiters
+expltools/explcheck/testfiles/w202.tex:1:1: warning: W202 deprecated control sequences
