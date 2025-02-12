@@ -1,0 +1,1746 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 22,
+    "end_lnum": 22,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:22:16:22:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 22,
+    "end_lnum": 22,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:22:52:22:52: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 22,
+    "end_lnum": 22,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:22:53:22:53: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 22,
+    "end_lnum": 22,
+    "col": 60,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:22:60:22:60: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 22,
+    "end_lnum": 22,
+    "col": 61,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:22:61:22:61: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 24,
+    "end_lnum": 24,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:24:12:24:12: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 24,
+    "end_lnum": 24,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:24:19:24:19: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 26,
+    "end_lnum": 26,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:26:12:26:12: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 26,
+    "end_lnum": 26,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:26:17:26:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 27,
+    "end_lnum": 27,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:27:17:27:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 27,
+    "end_lnum": 27,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:27:21:27:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 43,
+    "end_lnum": 43,
+    "col": 9,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:43:9:43:23: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 93,
+    "end_lnum": 93,
+    "col": 27,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:93:27:93:42: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 95,
+    "end_lnum": 95,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:95:34:95:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 95,
+    "end_lnum": 95,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:95:40:95:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 134,
+    "end_lnum": 134,
+    "col": 24,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:134:24:134:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 136,
+    "end_lnum": 136,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:136:34:136:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 136,
+    "end_lnum": 136,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:136:40:136:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 144,
+    "end_lnum": 144,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:144:32:144:32: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 144,
+    "end_lnum": 144,
+    "col": 33,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:144:33:144:33: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 144,
+    "end_lnum": 144,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:144:34:144:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 155,
+    "end_lnum": 155,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:155:28:155:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 29,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:157:29:157:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 157,
+    "end_lnum": 157,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:157:47:157:47: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 158,
+    "end_lnum": 158,
+    "col": 56,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:158:56:158:56: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 161,
+    "end_lnum": 161,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:161:26:161:26: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 161,
+    "end_lnum": 161,
+    "col": 48,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:161:48:161:65: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 161,
+    "end_lnum": 161,
+    "col": 66,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:161:66:161:66: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 161,
+    "end_lnum": 161,
+    "col": 67,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:161:67:161:67: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 165,
+    "end_lnum": 165,
+    "col": 44,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:165:44:165:56: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 165,
+    "end_lnum": 165,
+    "col": 59,
+    "end_col": 59,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:165:59:165:59: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 171,
+    "end_lnum": 171,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:171:35:171:35: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:174:1:174:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:174:22:174:22: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 79,
+    "end_col": 79,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:174:79:174:79: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 80,
+    "end_col": 80,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:174:80:174:80: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 81,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:174:81:174:81: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 48,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:176:48:176:65: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 66,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:176:66:176:66: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 185,
+    "end_lnum": 185,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:185:20:185:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 188,
+    "end_lnum": 188,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:188:20:188:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 189,
+    "end_lnum": 189,
+    "col": 51,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:189:51:189:51: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 197,
+    "end_lnum": 197,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:197:20:197:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 200,
+    "end_lnum": 200,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:200:20:200:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 201,
+    "end_lnum": 201,
+    "col": 51,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:201:51:201:51: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 217,
+    "end_lnum": 217,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:217:20:217:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 220,
+    "end_lnum": 220,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:220:20:220:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 222,
+    "end_lnum": 222,
+    "col": 40,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:222:40:222:60: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 222,
+    "end_lnum": 222,
+    "col": 63,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:222:63:222:63: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:235:18:235:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 19,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:235:19:235:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 236,
+    "end_lnum": 236,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:236:22:236:22: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 64,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:238:64:238:64: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 239,
+    "end_lnum": 239,
+    "col": 23,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:239:23:239:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 240,
+    "end_lnum": 240,
+    "col": 38,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:240:38:240:55: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 241,
+    "end_lnum": 241,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:241:18:241:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 243,
+    "end_lnum": 243,
+    "col": 69,
+    "end_col": 69,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:243:69:243:69: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 248,
+    "end_lnum": 248,
+    "col": 28,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:248:28:248:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 251,
+    "end_lnum": 251,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:251:39:251:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 255,
+    "end_lnum": 255,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:255:35:255:35: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 255,
+    "end_lnum": 255,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:255:41:255:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 277,
+    "end_lnum": 277,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:277:12:277:12: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 277,
+    "end_lnum": 277,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:277:17:277:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 278,
+    "end_lnum": 278,
+    "col": 65,
+    "end_col": 65,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:278:65:278:65: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 279,
+    "end_lnum": 279,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:279:52:279:52: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 282,
+    "end_lnum": 282,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:282:16:282:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 291,
+    "end_lnum": 291,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:291:16:291:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 299,
+    "end_lnum": 299,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:299:32:299:32: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 301,
+    "end_lnum": 301,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:301:14:301:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 310,
+    "end_lnum": 310,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:310:14:310:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 14,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:315:14:315:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:315:32:315:32: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 317,
+    "end_lnum": 317,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:317:10:317:10: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 317,
+    "end_lnum": 317,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:317:15:317:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 319,
+    "end_lnum": 319,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:319:29:319:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 332,
+    "end_lnum": 332,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:332:18:332:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 338,
+    "end_lnum": 338,
+    "col": 55,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:338:55:338:55: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 341,
+    "end_lnum": 341,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:341:18:341:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 342,
+    "end_lnum": 342,
+    "col": 62,
+    "end_col": 62,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:342:62:342:62: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 343,
+    "end_lnum": 343,
+    "col": 71,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:343:71:343:71: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 347,
+    "end_lnum": 347,
+    "col": 14,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:347:14:347:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 348,
+    "end_lnum": 348,
+    "col": 14,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:348:14:348:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 354,
+    "end_lnum": 354,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:354:14:354:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 360,
+    "end_lnum": 360,
+    "col": 51,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:360:51:360:51: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 363,
+    "end_lnum": 363,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:363:14:363:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 363,
+    "end_lnum": 363,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:363:43:363:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 371,
+    "end_lnum": 371,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:371:12:371:12: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 374,
+    "end_lnum": 374,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:374:21:374:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 385,
+    "end_lnum": 385,
+    "col": 70,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:385:70:385:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 391,
+    "end_lnum": 391,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:391:18:391:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 397,
+    "end_lnum": 397,
+    "col": 55,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:397:55:397:55: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 401,
+    "end_lnum": 401,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:401:18:401:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 402,
+    "end_lnum": 402,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:402:36:402:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 403,
+    "end_lnum": 403,
+    "col": 71,
+    "end_col": 71,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:403:71:403:71: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 14,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:407:14:407:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 408,
+    "end_lnum": 408,
+    "col": 14,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:408:14:408:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 414,
+    "end_lnum": 414,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:414:14:414:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 420,
+    "end_lnum": 420,
+    "col": 51,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:420:51:420:51: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 423,
+    "end_lnum": 423,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:423:14:423:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 423,
+    "end_lnum": 423,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:423:43:423:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 431,
+    "end_lnum": 431,
+    "col": 12,
+    "end_col": 12,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:431:12:431:12: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 434,
+    "end_lnum": 434,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:434:14:434:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 434,
+    "end_lnum": 434,
+    "col": 15,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:434:15:434:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 438,
+    "end_lnum": 438,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:438:14:438:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 438,
+    "end_lnum": 438,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:438:48:438:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 439,
+    "end_lnum": 439,
+    "col": 66,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:439:66:439:66: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 444,
+    "end_lnum": 444,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:444:32:444:32: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 444,
+    "end_lnum": 444,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:444:38:444:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/litetable/litetable.cls",
+    "lnum": 444,
+    "end_lnum": 444,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/litetable/litetable.cls:444:44:444:44: s204 missing stylistic whitespaces"
+    ]
+  }
+]

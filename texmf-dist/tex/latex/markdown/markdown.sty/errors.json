@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty",
+    "lnum": 303,
+    "end_lnum": 303,
+    "col": 21,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/markdown/markdown.sty:303:21:303:30: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/markdown/markdown.sty",
+    "lnum": 303,
+    "end_lnum": 303,
+    "col": 32,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/markdown/markdown.sty:303:32:303:49: w200 \"do not use\" argument specifiers"
+    ]
+  }
+]

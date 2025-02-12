@@ -1,0 +1,23 @@
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:72:14:72:27: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:72:14:72:27: w202 deprecated control sequences
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:72:28:72:28: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:176:21:176:34: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:176:21:176:34: w202 deprecated control sequences
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:176:35:176:35: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:294:45:294:56: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:621:37:621:37: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:621:45:621:45: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:718:20:718:21: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:726:8:726:8: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:726:36:726:36: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:805:15:805:16: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:808:23:808:24: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:831:24:831:25: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:840:28:840:29: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:860:1:860:81: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:862:1:862:81: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:959:23:959:24: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:1014:44:1014:44: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:1066:48:1066:48: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:1087:1:1087:82: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtureport.cls:1107:19:1107:20: s205 malformed function name

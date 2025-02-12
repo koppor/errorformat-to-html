@@ -1,0 +1,898 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 33,
+    "end_lnum": 33,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:33:45:33:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 39,
+    "end_lnum": 39,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:39:45:39:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:45:45:45:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 51,
+    "end_lnum": 51,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:51:45:51:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:57:45:57:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 64,
+    "end_lnum": 64,
+    "col": 74,
+    "end_col": 74,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:64:74:64:74: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 68,
+    "end_lnum": 68,
+    "col": 76,
+    "end_col": 76,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:68:76:68:76: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 78,
+    "end_lnum": 78,
+    "col": 70,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:78:70:78:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 81,
+    "end_lnum": 81,
+    "col": 63,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:81:63:81:63: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 84,
+    "end_lnum": 84,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:84:50:84:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 89,
+    "end_lnum": 89,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:89:50:89:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 97,
+    "end_lnum": 97,
+    "col": 73,
+    "end_col": 73,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:97:73:97:73: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 338,
+    "end_lnum": 338,
+    "col": 19,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:338:19:338:20: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:10:824:10: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:14:824:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:17:824:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:27:824:27: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 30,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:30:824:30: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:42:824:42: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:45:824:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 824,
+    "end_lnum": 824,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:824:50:824:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:10:825:10: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:15:825:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:18:825:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:23:825:23: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:26:825:26: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:31:825:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:34:825:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:38:825:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:41:825:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 825,
+    "end_lnum": 825,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:825:45:825:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1155,
+    "end_lnum": 1155,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1155:39:1155:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1199,
+    "end_lnum": 1199,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1199:6:1199:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1200,
+    "end_lnum": 1200,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1200:6:1200:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1212,
+    "end_lnum": 1212,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1212:8:1212:8: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:10:1259:10: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:14:1259:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:17:1259:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:27:1259:27: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 30,
+    "end_col": 30,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:30:1259:30: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:42:1259:42: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:45:1259:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:50:1259:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:53:1259:53: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1259,
+    "end_lnum": 1259,
+    "col": 63,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1259:63:1259:63: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 10,
+    "end_col": 10,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:10:1260:10: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:15:1260:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:18:1260:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:23:1260:23: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:26:1260:26: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:31:1260:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:34:1260:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:38:1260:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:41:1260:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1260,
+    "end_lnum": 1260,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1260:45:1260:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/fontscale/fontscale.sty",
+    "lnum": 1279,
+    "end_lnum": 1279,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/fontscale/fontscale.sty:1279:41:1279:41: s204 missing stylistic whitespaces"
+    ]
+  }
+]

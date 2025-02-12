@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amstext.sty",
+    "lnum": 11,
+    "end_lnum": 11,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amstext.sty:11:1:11:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amstext.sty",
+    "lnum": 18,
+    "end_lnum": 18,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amstext.sty:18:1:18:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amstext.sty",
+    "lnum": 18,
+    "end_lnum": 18,
+    "col": 85,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amstext.sty:18:85:18:85: s204 missing stylistic whitespaces"
+    ]
+  }
+]

@@ -1,0 +1,5634 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2901,
+    "end_lnum": 2901,
+    "col": 41,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2901:41:2901:56: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3842,
+    "end_lnum": 3842,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3842:5:3842:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 88,
+    "end_lnum": 88,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:88:1:88:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 93,
+    "end_lnum": 93,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:93:1:93:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 99,
+    "end_lnum": 99,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:99:1:99:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 105,
+    "end_lnum": 105,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:105:1:105:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 154,
+    "end_lnum": 154,
+    "col": 1,
+    "end_col": 123,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:154:1:154:123: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 166,
+    "end_lnum": 166,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:166:1:166:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 234,
+    "end_lnum": 234,
+    "col": 105,
+    "end_col": 187,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:234:105:234:187: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 1,
+    "end_col": 208,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:235:1:235:208: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 236,
+    "end_lnum": 236,
+    "col": 1,
+    "end_col": 176,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:236:1:236:176: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 237,
+    "end_lnum": 237,
+    "col": 1,
+    "end_col": 233,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:237:1:237:233: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 1,
+    "end_col": 284,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:238:1:238:284: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 239,
+    "end_lnum": 239,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:239:1:239:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 241,
+    "end_lnum": 241,
+    "col": 1,
+    "end_col": 410,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:241:1:241:410: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 242,
+    "end_lnum": 242,
+    "col": 1,
+    "end_col": 152,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:242:1:242:152: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 245,
+    "end_lnum": 245,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:245:1:245:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 250,
+    "end_lnum": 250,
+    "col": 1,
+    "end_col": 156,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:250:1:250:156: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 251,
+    "end_lnum": 251,
+    "col": 1,
+    "end_col": 128,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:251:1:251:128: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 252,
+    "end_lnum": 252,
+    "col": 1,
+    "end_col": 149,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:252:1:252:149: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 253,
+    "end_lnum": 253,
+    "col": 1,
+    "end_col": 134,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:253:1:253:134: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 254,
+    "end_lnum": 254,
+    "col": 1,
+    "end_col": 118,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:254:1:254:118: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 261,
+    "end_lnum": 261,
+    "col": 1,
+    "end_col": 395,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:261:1:261:395: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 270,
+    "end_lnum": 270,
+    "col": 1,
+    "end_col": 416,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:270:1:270:416: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 281,
+    "end_lnum": 281,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:281:1:281:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 299,
+    "end_lnum": 299,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:299:1:299:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 303,
+    "end_lnum": 303,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:303:1:303:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 305,
+    "end_lnum": 305,
+    "col": 1,
+    "end_col": 128,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:305:1:305:128: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 306,
+    "end_lnum": 306,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:306:1:306:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 318,
+    "end_lnum": 318,
+    "col": 1,
+    "end_col": 125,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:318:1:318:125: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 325,
+    "end_lnum": 325,
+    "col": 1,
+    "end_col": 110,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:325:1:325:110: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 326,
+    "end_lnum": 326,
+    "col": 1,
+    "end_col": 88,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:326:1:326:88: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 328,
+    "end_lnum": 328,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:328:1:328:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 335,
+    "end_lnum": 335,
+    "col": 1,
+    "end_col": 115,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:335:1:335:115: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 351,
+    "end_lnum": 351,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:351:1:351:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 353,
+    "end_lnum": 353,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:353:1:353:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 355,
+    "end_lnum": 355,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:355:1:355:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 517,
+    "end_lnum": 517,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:517:1:517:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 521,
+    "end_lnum": 521,
+    "col": 1,
+    "end_col": 172,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:521:1:521:172: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 532,
+    "end_lnum": 532,
+    "col": 1,
+    "end_col": 94,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:532:1:532:94: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 538,
+    "end_lnum": 538,
+    "col": 1,
+    "end_col": 151,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:538:1:538:151: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 542,
+    "end_lnum": 542,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:542:1:542:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 564,
+    "end_lnum": 564,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:564:1:564:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 580,
+    "end_lnum": 580,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:580:1:580:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 610,
+    "end_lnum": 610,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:610:1:610:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 612,
+    "end_lnum": 612,
+    "col": 1,
+    "end_col": 138,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:612:1:612:138: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 630,
+    "end_lnum": 630,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:630:1:630:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 657,
+    "end_lnum": 657,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:657:1:657:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 672,
+    "end_lnum": 672,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:672:1:672:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 686,
+    "end_lnum": 686,
+    "col": 1,
+    "end_col": 93,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:686:1:686:93: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 695,
+    "end_lnum": 695,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:695:1:695:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 696,
+    "end_lnum": 696,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:696:1:696:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 714,
+    "end_lnum": 714,
+    "col": 1,
+    "end_col": 142,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:714:1:714:142: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 717,
+    "end_lnum": 717,
+    "col": 1,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:717:1:717:114: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 722,
+    "end_lnum": 722,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:722:1:722:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 726,
+    "end_lnum": 726,
+    "col": 1,
+    "end_col": 169,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:726:1:726:169: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 737,
+    "end_lnum": 737,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:737:1:737:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 738,
+    "end_lnum": 738,
+    "col": 1,
+    "end_col": 116,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:738:1:738:116: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 751,
+    "end_lnum": 751,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:751:1:751:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 753,
+    "end_lnum": 753,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:753:1:753:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 759,
+    "end_lnum": 759,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:759:1:759:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 784,
+    "end_lnum": 784,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:784:1:784:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 797,
+    "end_lnum": 797,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:797:1:797:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 800,
+    "end_lnum": 800,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:800:1:800:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 811,
+    "end_lnum": 811,
+    "col": 1,
+    "end_col": 90,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:811:1:811:90: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 835,
+    "end_lnum": 835,
+    "col": 1,
+    "end_col": 115,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:835:1:835:115: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 837,
+    "end_lnum": 837,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:837:1:837:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 841,
+    "end_lnum": 841,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:841:1:841:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 878,
+    "end_lnum": 878,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:878:1:878:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 888,
+    "end_lnum": 888,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:888:1:888:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 889,
+    "end_lnum": 889,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:889:1:889:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 900,
+    "end_lnum": 900,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:900:1:900:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 901,
+    "end_lnum": 901,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:901:1:901:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 914,
+    "end_lnum": 914,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:914:1:914:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 927,
+    "end_lnum": 927,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:927:1:927:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 938,
+    "end_lnum": 938,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:938:1:938:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 956,
+    "end_lnum": 956,
+    "col": 1,
+    "end_col": 90,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:956:1:956:90: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 961,
+    "end_lnum": 961,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:961:1:961:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 962,
+    "end_lnum": 962,
+    "col": 1,
+    "end_col": 134,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:962:1:962:134: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 964,
+    "end_lnum": 964,
+    "col": 1,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:964:1:964:114: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 965,
+    "end_lnum": 965,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:965:1:965:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 966,
+    "end_lnum": 966,
+    "col": 1,
+    "end_col": 187,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:966:1:966:187: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 970,
+    "end_lnum": 970,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:970:1:970:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1000,
+    "end_lnum": 1000,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1000:1:1000:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1011,
+    "end_lnum": 1011,
+    "col": 1,
+    "end_col": 109,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1011:1:1011:109: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1014,
+    "end_lnum": 1014,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1014:1:1014:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1018,
+    "end_lnum": 1018,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1018:1:1018:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1036,
+    "end_lnum": 1036,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1036:1:1036:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1044,
+    "end_lnum": 1044,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1044:1:1044:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1050,
+    "end_lnum": 1050,
+    "col": 1,
+    "end_col": 109,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1050:1:1050:109: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1053,
+    "end_lnum": 1053,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1053:1:1053:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1057,
+    "end_lnum": 1057,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1057:1:1057:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1067,
+    "end_lnum": 1067,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1067:1:1067:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1069,
+    "end_lnum": 1069,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1069:1:1069:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1073,
+    "end_lnum": 1073,
+    "col": 1,
+    "end_col": 88,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1073:1:1073:88: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1080,
+    "end_lnum": 1080,
+    "col": 1,
+    "end_col": 109,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1080:1:1080:109: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1107,
+    "end_lnum": 1107,
+    "col": 1,
+    "end_col": 93,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1107:1:1107:93: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1114,
+    "end_lnum": 1114,
+    "col": 1,
+    "end_col": 91,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1114:1:1114:91: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1116,
+    "end_lnum": 1116,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1116:1:1116:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1120,
+    "end_lnum": 1120,
+    "col": 1,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1120:1:1120:114: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1128,
+    "end_lnum": 1128,
+    "col": 1,
+    "end_col": 142,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1128:1:1128:142: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1152,
+    "end_lnum": 1152,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1152:1:1152:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1161,
+    "end_lnum": 1161,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1161:1:1161:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1169,
+    "end_lnum": 1169,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1169:1:1169:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1173,
+    "end_lnum": 1173,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1173:1:1173:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1185,
+    "end_lnum": 1185,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1185:1:1185:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1208,
+    "end_lnum": 1208,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1208:1:1208:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1218,
+    "end_lnum": 1218,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1218:1:1218:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1269,
+    "end_lnum": 1269,
+    "col": 1,
+    "end_col": 109,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1269:1:1269:109: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1270,
+    "end_lnum": 1270,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1270:1:1270:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1295,
+    "end_lnum": 1295,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1295:1:1295:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1302,
+    "end_lnum": 1302,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1302:1:1302:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1304,
+    "end_lnum": 1304,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1304:1:1304:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1307,
+    "end_lnum": 1307,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1307:1:1307:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1309,
+    "end_lnum": 1309,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1309:1:1309:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1311,
+    "end_lnum": 1311,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1311:1:1311:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1314,
+    "end_lnum": 1314,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1314:1:1314:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1316,
+    "end_lnum": 1316,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1316:1:1316:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1342,
+    "end_lnum": 1342,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1342:1:1342:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1349,
+    "end_lnum": 1349,
+    "col": 1,
+    "end_col": 94,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1349:1:1349:94: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1353,
+    "end_lnum": 1353,
+    "col": 1,
+    "end_col": 94,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1353:1:1353:94: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1362,
+    "end_lnum": 1362,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1362:1:1362:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1363,
+    "end_lnum": 1363,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1363:1:1363:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1371,
+    "end_lnum": 1371,
+    "col": 1,
+    "end_col": 93,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1371:1:1371:93: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1381,
+    "end_lnum": 1381,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1381:1:1381:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1393,
+    "end_lnum": 1393,
+    "col": 1,
+    "end_col": 151,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1393:1:1393:151: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1394,
+    "end_lnum": 1394,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1394:1:1394:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1421,
+    "end_lnum": 1421,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1421:1:1421:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1422,
+    "end_lnum": 1422,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1422:1:1422:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1442,
+    "end_lnum": 1442,
+    "col": 1,
+    "end_col": 116,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1442:1:1442:116: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1456,
+    "end_lnum": 1456,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1456:1:1456:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1457,
+    "end_lnum": 1457,
+    "col": 1,
+    "end_col": 111,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1457:1:1457:111: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1459,
+    "end_lnum": 1459,
+    "col": 1,
+    "end_col": 116,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1459:1:1459:116: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1460,
+    "end_lnum": 1460,
+    "col": 1,
+    "end_col": 115,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1460:1:1460:115: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1461,
+    "end_lnum": 1461,
+    "col": 1,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1461:1:1461:114: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1462,
+    "end_lnum": 1462,
+    "col": 1,
+    "end_col": 126,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1462:1:1462:126: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1464,
+    "end_lnum": 1464,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1464:1:1464:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1471,
+    "end_lnum": 1471,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1471:1:1471:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1472,
+    "end_lnum": 1472,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1472:1:1472:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1483,
+    "end_lnum": 1483,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1483:1:1483:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1492,
+    "end_lnum": 1492,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1492:1:1492:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1493,
+    "end_lnum": 1493,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1493:1:1493:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1507,
+    "end_lnum": 1507,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1507:1:1507:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1508,
+    "end_lnum": 1508,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1508:1:1508:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1523,
+    "end_lnum": 1523,
+    "col": 1,
+    "end_col": 90,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1523:1:1523:90: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1562,
+    "end_lnum": 1562,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1562:1:1562:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1585,
+    "end_lnum": 1585,
+    "col": 1,
+    "end_col": 88,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1585:1:1585:88: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1603,
+    "end_lnum": 1603,
+    "col": 1,
+    "end_col": 90,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1603:1:1603:90: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1610,
+    "end_lnum": 1610,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1610:1:1610:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1647,
+    "end_lnum": 1647,
+    "col": 1,
+    "end_col": 106,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1647:1:1647:106: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1648,
+    "end_lnum": 1648,
+    "col": 1,
+    "end_col": 118,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1648:1:1648:118: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1655,
+    "end_lnum": 1655,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1655:1:1655:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1659,
+    "end_lnum": 1659,
+    "col": 1,
+    "end_col": 90,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1659:1:1659:90: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1662,
+    "end_lnum": 1662,
+    "col": 1,
+    "end_col": 151,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1662:1:1662:151: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1664,
+    "end_lnum": 1664,
+    "col": 1,
+    "end_col": 94,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1664:1:1664:94: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1665,
+    "end_lnum": 1665,
+    "col": 1,
+    "end_col": 133,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1665:1:1665:133: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1666,
+    "end_lnum": 1666,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1666:1:1666:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1671,
+    "end_lnum": 1671,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1671:1:1671:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1675,
+    "end_lnum": 1675,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1675:1:1675:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1680,
+    "end_lnum": 1680,
+    "col": 1,
+    "end_col": 88,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1680:1:1680:88: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1681,
+    "end_lnum": 1681,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1681:1:1681:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1683,
+    "end_lnum": 1683,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1683:1:1683:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1687,
+    "end_lnum": 1687,
+    "col": 1,
+    "end_col": 115,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1687:1:1687:115: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1690,
+    "end_lnum": 1690,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1690:1:1690:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1692,
+    "end_lnum": 1692,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1692:1:1692:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1704,
+    "end_lnum": 1704,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1704:1:1704:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1708,
+    "end_lnum": 1708,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1708:1:1708:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1721,
+    "end_lnum": 1721,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1721:1:1721:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1726,
+    "end_lnum": 1726,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1726:1:1726:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1741,
+    "end_lnum": 1741,
+    "col": 1,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1741:1:1741:114: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1758,
+    "end_lnum": 1758,
+    "col": 1,
+    "end_col": 93,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1758:1:1758:93: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1759,
+    "end_lnum": 1759,
+    "col": 1,
+    "end_col": 120,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1759:1:1759:120: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1760,
+    "end_lnum": 1760,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1760:1:1760:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1761,
+    "end_lnum": 1761,
+    "col": 1,
+    "end_col": 123,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1761:1:1761:123: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1762,
+    "end_lnum": 1762,
+    "col": 1,
+    "end_col": 127,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1762:1:1762:127: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1763,
+    "end_lnum": 1763,
+    "col": 1,
+    "end_col": 133,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1763:1:1763:133: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1766,
+    "end_lnum": 1766,
+    "col": 1,
+    "end_col": 135,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1766:1:1766:135: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1767,
+    "end_lnum": 1767,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1767:1:1767:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1768,
+    "end_lnum": 1768,
+    "col": 1,
+    "end_col": 213,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1768:1:1768:213: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1769,
+    "end_lnum": 1769,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1769:1:1769:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1771,
+    "end_lnum": 1771,
+    "col": 1,
+    "end_col": 182,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1771:1:1771:182: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1776,
+    "end_lnum": 1776,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1776:1:1776:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1781,
+    "end_lnum": 1781,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1781:1:1781:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1784,
+    "end_lnum": 1784,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1784:1:1784:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1785,
+    "end_lnum": 1785,
+    "col": 1,
+    "end_col": 237,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1785:1:1785:237: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1787,
+    "end_lnum": 1787,
+    "col": 1,
+    "end_col": 110,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1787:1:1787:110: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1790,
+    "end_lnum": 1790,
+    "col": 1,
+    "end_col": 116,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1790:1:1790:116: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1791,
+    "end_lnum": 1791,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1791:1:1791:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1792,
+    "end_lnum": 1792,
+    "col": 1,
+    "end_col": 91,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1792:1:1792:91: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1793,
+    "end_lnum": 1793,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1793:1:1793:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1797,
+    "end_lnum": 1797,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1797:1:1797:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1799,
+    "end_lnum": 1799,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1799:1:1799:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1800,
+    "end_lnum": 1800,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1800:1:1800:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1801,
+    "end_lnum": 1801,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1801:1:1801:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1804,
+    "end_lnum": 1804,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1804:1:1804:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1807,
+    "end_lnum": 1807,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1807:1:1807:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1808,
+    "end_lnum": 1808,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1808:1:1808:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1809,
+    "end_lnum": 1809,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1809:1:1809:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1810,
+    "end_lnum": 1810,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1810:1:1810:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1811,
+    "end_lnum": 1811,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1811:1:1811:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1813,
+    "end_lnum": 1813,
+    "col": 1,
+    "end_col": 123,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1813:1:1813:123: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1815,
+    "end_lnum": 1815,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1815:1:1815:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1817,
+    "end_lnum": 1817,
+    "col": 1,
+    "end_col": 125,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1817:1:1817:125: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1818,
+    "end_lnum": 1818,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1818:1:1818:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1820,
+    "end_lnum": 1820,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1820:1:1820:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1821,
+    "end_lnum": 1821,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1821:1:1821:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1823,
+    "end_lnum": 1823,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1823:1:1823:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1824,
+    "end_lnum": 1824,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1824:1:1824:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1837,
+    "end_lnum": 1837,
+    "col": 1,
+    "end_col": 93,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1837:1:1837:93: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1841,
+    "end_lnum": 1841,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1841:1:1841:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1844,
+    "end_lnum": 1844,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1844:1:1844:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1846,
+    "end_lnum": 1846,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1846:1:1846:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1847,
+    "end_lnum": 1847,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1847:1:1847:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1848,
+    "end_lnum": 1848,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1848:1:1848:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1849,
+    "end_lnum": 1849,
+    "col": 1,
+    "end_col": 88,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1849:1:1849:88: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1862,
+    "end_lnum": 1862,
+    "col": 1,
+    "end_col": 90,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1862:1:1862:90: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1871,
+    "end_lnum": 1871,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1871:1:1871:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1873,
+    "end_lnum": 1873,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1873:1:1873:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1876,
+    "end_lnum": 1876,
+    "col": 1,
+    "end_col": 88,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1876:1:1876:88: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1877,
+    "end_lnum": 1877,
+    "col": 1,
+    "end_col": 120,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1877:1:1877:120: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1878,
+    "end_lnum": 1878,
+    "col": 1,
+    "end_col": 123,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1878:1:1878:123: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1879,
+    "end_lnum": 1879,
+    "col": 1,
+    "end_col": 122,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1879:1:1879:122: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1880,
+    "end_lnum": 1880,
+    "col": 1,
+    "end_col": 116,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1880:1:1880:116: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1881,
+    "end_lnum": 1881,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1881:1:1881:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1884,
+    "end_lnum": 1884,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1884:1:1884:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1886,
+    "end_lnum": 1886,
+    "col": 1,
+    "end_col": 110,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1886:1:1886:110: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1890,
+    "end_lnum": 1890,
+    "col": 1,
+    "end_col": 132,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1890:1:1890:132: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1891,
+    "end_lnum": 1891,
+    "col": 1,
+    "end_col": 112,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1891:1:1891:112: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1893,
+    "end_lnum": 1893,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1893:1:1893:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1899,
+    "end_lnum": 1899,
+    "col": 1,
+    "end_col": 211,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1899:1:1899:211: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1900,
+    "end_lnum": 1900,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1900:1:1900:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1902,
+    "end_lnum": 1902,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1902:1:1902:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1904,
+    "end_lnum": 1904,
+    "col": 1,
+    "end_col": 159,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1904:1:1904:159: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1906,
+    "end_lnum": 1906,
+    "col": 1,
+    "end_col": 231,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1906:1:1906:231: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1908,
+    "end_lnum": 1908,
+    "col": 1,
+    "end_col": 94,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1908:1:1908:94: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1911,
+    "end_lnum": 1911,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1911:1:1911:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1913,
+    "end_lnum": 1913,
+    "col": 1,
+    "end_col": 111,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1913:1:1913:111: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1915,
+    "end_lnum": 1915,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1915:1:1915:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1917,
+    "end_lnum": 1917,
+    "col": 1,
+    "end_col": 144,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1917:1:1917:144: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1921,
+    "end_lnum": 1921,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1921:1:1921:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1925,
+    "end_lnum": 1925,
+    "col": 1,
+    "end_col": 108,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1925:1:1925:108: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1927,
+    "end_lnum": 1927,
+    "col": 1,
+    "end_col": 180,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1927:1:1927:180: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1929,
+    "end_lnum": 1929,
+    "col": 1,
+    "end_col": 120,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1929:1:1929:120: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1930,
+    "end_lnum": 1930,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1930:1:1930:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1931,
+    "end_lnum": 1931,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1931:1:1931:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1936,
+    "end_lnum": 1936,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1936:1:1936:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1938,
+    "end_lnum": 1938,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1938:1:1938:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1939,
+    "end_lnum": 1939,
+    "col": 1,
+    "end_col": 221,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1939:1:1939:221: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1941,
+    "end_lnum": 1941,
+    "col": 1,
+    "end_col": 163,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1941:1:1941:163: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1943,
+    "end_lnum": 1943,
+    "col": 1,
+    "end_col": 235,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1943:1:1943:235: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1945,
+    "end_lnum": 1945,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1945:1:1945:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1948,
+    "end_lnum": 1948,
+    "col": 1,
+    "end_col": 117,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1948:1:1948:117: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1953,
+    "end_lnum": 1953,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1953:1:1953:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1978,
+    "end_lnum": 1978,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1978:1:1978:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1979,
+    "end_lnum": 1979,
+    "col": 1,
+    "end_col": 94,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1979:1:1979:94: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1980,
+    "end_lnum": 1980,
+    "col": 1,
+    "end_col": 93,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1980:1:1980:93: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1981,
+    "end_lnum": 1981,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1981:1:1981:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1982,
+    "end_lnum": 1982,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1982:1:1982:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1986,
+    "end_lnum": 1986,
+    "col": 1,
+    "end_col": 110,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1986:1:1986:110: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1990,
+    "end_lnum": 1990,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1990:1:1990:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1996,
+    "end_lnum": 1996,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1996:1:1996:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1997,
+    "end_lnum": 1997,
+    "col": 1,
+    "end_col": 112,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1997:1:1997:112: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1998,
+    "end_lnum": 1998,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1998:1:1998:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 1999,
+    "end_lnum": 1999,
+    "col": 1,
+    "end_col": 138,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:1999:1:1999:138: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2005,
+    "end_lnum": 2005,
+    "col": 1,
+    "end_col": 188,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2005:1:2005:188: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2011,
+    "end_lnum": 2011,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2011:1:2011:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2013,
+    "end_lnum": 2013,
+    "col": 1,
+    "end_col": 93,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2013:1:2013:93: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2014,
+    "end_lnum": 2014,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2014:1:2014:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2015,
+    "end_lnum": 2015,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2015:1:2015:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2016,
+    "end_lnum": 2016,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2016:1:2016:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2019,
+    "end_lnum": 2019,
+    "col": 1,
+    "end_col": 106,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2019:1:2019:106: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2020,
+    "end_lnum": 2020,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2020:1:2020:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2023,
+    "end_lnum": 2023,
+    "col": 1,
+    "end_col": 251,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2023:1:2023:251: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2026,
+    "end_lnum": 2026,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2026:1:2026:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2028,
+    "end_lnum": 2028,
+    "col": 1,
+    "end_col": 193,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2028:1:2028:193: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2030,
+    "end_lnum": 2030,
+    "col": 1,
+    "end_col": 176,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2030:1:2030:176: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2032,
+    "end_lnum": 2032,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2032:1:2032:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2034,
+    "end_lnum": 2034,
+    "col": 1,
+    "end_col": 110,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2034:1:2034:110: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2035,
+    "end_lnum": 2035,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2035:1:2035:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2043,
+    "end_lnum": 2043,
+    "col": 1,
+    "end_col": 239,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2043:1:2043:239: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2046,
+    "end_lnum": 2046,
+    "col": 1,
+    "end_col": 256,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2046:1:2046:256: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2059,
+    "end_lnum": 2059,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2059:1:2059:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2060,
+    "end_lnum": 2060,
+    "col": 1,
+    "end_col": 106,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2060:1:2060:106: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2061,
+    "end_lnum": 2061,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2061:1:2061:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2063,
+    "end_lnum": 2063,
+    "col": 1,
+    "end_col": 116,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2063:1:2063:116: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2073,
+    "end_lnum": 2073,
+    "col": 1,
+    "end_col": 124,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2073:1:2073:124: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2089,
+    "end_lnum": 2089,
+    "col": 1,
+    "end_col": 125,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2089:1:2089:125: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2092,
+    "end_lnum": 2092,
+    "col": 1,
+    "end_col": 145,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2092:1:2092:145: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2097,
+    "end_lnum": 2097,
+    "col": 1,
+    "end_col": 111,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2097:1:2097:111: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2102,
+    "end_lnum": 2102,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2102:1:2102:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2112,
+    "end_lnum": 2112,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2112:1:2112:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2117,
+    "end_lnum": 2117,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2117:1:2117:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2120,
+    "end_lnum": 2120,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2120:1:2120:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2127,
+    "end_lnum": 2127,
+    "col": 1,
+    "end_col": 208,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2127:1:2127:208: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2146,
+    "end_lnum": 2146,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2146:1:2146:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2149,
+    "end_lnum": 2149,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2149:1:2149:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2160,
+    "end_lnum": 2160,
+    "col": 1,
+    "end_col": 129,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2160:1:2160:129: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2168,
+    "end_lnum": 2168,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2168:1:2168:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2170,
+    "end_lnum": 2170,
+    "col": 1,
+    "end_col": 90,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2170:1:2170:90: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2173,
+    "end_lnum": 2173,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2173:1:2173:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2176,
+    "end_lnum": 2176,
+    "col": 1,
+    "end_col": 136,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2176:1:2176:136: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2181,
+    "end_lnum": 2181,
+    "col": 1,
+    "end_col": 101,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2181:1:2181:101: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2291,
+    "end_lnum": 2291,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2291:1:2291:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2292,
+    "end_lnum": 2292,
+    "col": 1,
+    "end_col": 99,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2292:1:2292:99: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2367,
+    "end_lnum": 2367,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2367:1:2367:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2370,
+    "end_lnum": 2370,
+    "col": 1,
+    "end_col": 102,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2370:1:2370:102: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2374,
+    "end_lnum": 2374,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2374:1:2374:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2386,
+    "end_lnum": 2386,
+    "col": 1,
+    "end_col": 113,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2386:1:2386:113: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2389,
+    "end_lnum": 2389,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2389:1:2389:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2409,
+    "end_lnum": 2409,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2409:1:2409:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2428,
+    "end_lnum": 2428,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2428:1:2428:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2436,
+    "end_lnum": 2436,
+    "col": 1,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2436:1:2436:114: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2439,
+    "end_lnum": 2439,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2439:1:2439:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2449,
+    "end_lnum": 2449,
+    "col": 1,
+    "end_col": 111,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2449:1:2449:111: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2462,
+    "end_lnum": 2462,
+    "col": 1,
+    "end_col": 104,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2462:1:2462:104: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2469,
+    "end_lnum": 2469,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2469:1:2469:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2470,
+    "end_lnum": 2470,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2470:1:2470:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2472,
+    "end_lnum": 2472,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2472:1:2472:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2473,
+    "end_lnum": 2473,
+    "col": 1,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2473:1:2473:114: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2477,
+    "end_lnum": 2477,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2477:1:2477:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2481,
+    "end_lnum": 2481,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2481:1:2481:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2526,
+    "end_lnum": 2526,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2526:1:2526:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2545,
+    "end_lnum": 2545,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2545:1:2545:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2569,
+    "end_lnum": 2569,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2569:1:2569:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2571,
+    "end_lnum": 2571,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2571:1:2571:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2573,
+    "end_lnum": 2573,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2573:1:2573:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2578,
+    "end_lnum": 2578,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2578:1:2578:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2580,
+    "end_lnum": 2580,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2580:1:2580:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2581,
+    "end_lnum": 2581,
+    "col": 1,
+    "end_col": 203,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2581:1:2581:203: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2583,
+    "end_lnum": 2583,
+    "col": 1,
+    "end_col": 223,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2583:1:2583:223: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 2589,
+    "end_lnum": 2589,
+    "col": 1,
+    "end_col": 100,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:2589:1:2589:100: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3287,
+    "end_lnum": 3287,
+    "col": 3,
+    "end_col": 110,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3287:3:3287:110: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3288,
+    "end_lnum": 3288,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3288:1:3288:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3289,
+    "end_lnum": 3289,
+    "col": 1,
+    "end_col": 110,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3289:1:3289:110: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3292,
+    "end_lnum": 3292,
+    "col": 1,
+    "end_col": 111,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3292:1:3292:111: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3336,
+    "end_lnum": 3336,
+    "col": 1,
+    "end_col": 107,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3336:1:3336:107: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3338,
+    "end_lnum": 3338,
+    "col": 1,
+    "end_col": 122,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3338:1:3338:122: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3378,
+    "end_lnum": 3378,
+    "col": 1,
+    "end_col": 92,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3378:1:3378:92: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3384,
+    "end_lnum": 3384,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3384:1:3384:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3386,
+    "end_lnum": 3386,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3386:1:3386:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3387,
+    "end_lnum": 3387,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3387:1:3387:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3388,
+    "end_lnum": 3388,
+    "col": 1,
+    "end_col": 115,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3388:1:3388:115: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3389,
+    "end_lnum": 3389,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3389:1:3389:97: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3390,
+    "end_lnum": 3390,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3390:1:3390:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3511,
+    "end_lnum": 3511,
+    "col": 1,
+    "end_col": 153,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3511:1:3511:153: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3512,
+    "end_lnum": 3512,
+    "col": 1,
+    "end_col": 406,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3512:1:3512:406: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3572,
+    "end_lnum": 3572,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3572:1:3572:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 3574,
+    "end_lnum": 3574,
+    "col": 1,
+    "end_col": 158,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:3574:1:3574:158: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 4137,
+    "end_lnum": 4137,
+    "col": 1,
+    "end_col": 87,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:4137:1:4137:87: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 4238,
+    "end_lnum": 4238,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:4238:1:4238:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 4239,
+    "end_lnum": 4239,
+    "col": 1,
+    "end_col": 91,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:4239:1:4239:91: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/robust-externalize/robust-externalize.sty",
+    "lnum": 4240,
+    "end_lnum": 4240,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/robust-externalize/robust-externalize.sty:4240:1:4240:95: s103 line too long"
+    ]
+  }
+]

@@ -1,0 +1,300 @@
+%%
+%% This is file `t-markdown.tex',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% markdown.dtx  (with options: `context')
+%% 
+%% Copyright (C) 2016-2025 Vít Starý Novotný, Andrej Genčur
+%% 
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3c
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%% 
+%%    http://www.latex-project.org/lppl.txt
+%% 
+%% This work has the LPPL maintenance status `maintained'.
+%% The Current Maintainer of this work is Vít Starý Novotný.
+%% 
+%% Send bug reports, requests for additions and questions
+%% either to the GitHub issue tracker at
+%% 
+%%   https://github.com/Witiko/markdown/issues
+%% 
+%% or to the e-mail address <witiko@mail.muni.cz>.
+%% 
+%% MODIFICATION ADVICE:
+%% 
+%% If you want to customize this file, it is best to make a copy of
+%% the source file(s) from which it was produced.  Use a different
+%% name for your copy(ies) and modify the copy(ies); this will ensure
+%% that your modifications do not get overwritten when you install a
+%% new release of the standard system.  You should also ensure that
+%% your modified source file does not generate any modified file with
+%% the same name as a standard file.
+%% 
+%% You will also need to produce your own, suitably named, .ins file to
+%% control the generation of files from your source file; this file
+%% should contain your own preambles for the files it generates, not
+%% those in the standard .ins files.
+%% 
+%% The names of the source files used are shown above.
+%% 
+\unprotect
+\expandafter\ifx\csname ExplSyntaxOn\endcsname\relax
+  \input expl3-generic
+\fi
+\ExplSyntaxOn
+\tl_const:Nn \c__markdown_option_layer_context_tl { context }
+\cs_generate_variant:Nn
+  \tl_const:Nn
+  { NV }
+\tl_if_exist:NF
+  \c__markdown_top_layer_tl
+  {
+    \tl_const:NV
+      \c__markdown_top_layer_tl
+      \c__markdown_option_layer_context_tl
+  }
+\ExplSyntaxOff
+\writestatus{loading}{ConTeXt User Module / markdown}%
+\startmodule[markdown]
+\def\dospecials{\do\ \do\\\do\{\do\}\do\$\do\&%
+  \do\#\do\^\do\_\do\%\do\~}%
+\input markdown/markdown
+\let\startmarkdown\relax
+\let\stopmarkdown\relax
+\let\startyaml\relax
+\let\stopyaml\relax
+\let\inputmarkdown\relax
+\let\inputyaml\relax
+\ExplSyntaxOn
+\cs_new:Npn
+  \setupmarkdown
+  [ #1 ]
+  {
+    \__markdown_setup:n
+      { #1 }
+  }
+\cs_gset_eq:NN
+  \setupyaml
+  \setupmarkdown
+\cs_new:Nn \__markdown_caseless:N
+  {
+    \regex_replace_all:nnN
+      { ([a-z])([A-Z]) }
+      { \1 \c { str_lowercase:n } \cB\{ \2 \cE\} }
+      #1
+    \tl_set:Nx
+      #1
+      { #1 }
+  }
+\seq_gput_right:Nn \g__markdown_cases_seq { __markdown_caseless:N }
+\str_if_eq:VVT
+  \c__markdown_top_layer_tl
+  \c__markdown_option_layer_context_tl
+  {
+    \__markdown_define_option_commands_and_keyvals:
+    \__markdown_define_renderers:
+    \__markdown_define_renderer_prototypes:
+  }
+\prop_new:N
+  \g__markdown_context_built_in_themes_prop
+\ExplSyntaxOff
+\def\markdownMakeOther{%
+  \count0=128\relax
+  \loop
+    \catcode\count0=11\relax
+    \advance\count0 by 1\relax
+  \ifnum\count0<256\repeat
+  \catcode`|=12}%
+\long\def\inputmarkdown{%
+  \dosingleempty
+  \doinputmarkdown}%
+\long\def\doinputmarkdown[#1]#2{%
+  \begingroup
+    \iffirstargument
+      \setupmarkdown[#1]%
+    \fi
+    \markdownInput{#2}%
+  \endgroup}%
+\long\def\inputyaml{%
+  \dosingleempty
+  \doinputyaml}%
+\long\def\doinputyaml[#1]#2{%
+  \doinputmarkdown
+    [jekyllData, expectJekyllData, ensureJekyllData, #1]{#2}}%
+\startluacode
+  document.markdown_buffering = false
+  local function preserve_trailing_spaces(line)
+    if document.markdown_buffering then
+      line = line:gsub("[ \t][ \t]$", "\t\t")
+    end
+    return line
+  end
+  resolvers.installinputlinehandler(preserve_trailing_spaces)
+\stopluacode
+\begingroup
+  \catcode`\|=0%
+  \catcode`\\=12%
+  |gdef|startmarkdown{%
+    |ctxlua{document.markdown_buffering = true}%
+    |markdownReadAndConvert{\stopmarkdown}%
+                           {|stopmarkdown}}%
+  |gdef|stopmarkdown{%
+    |ctxlua{document.markdown_buffering = false}%
+    |markdownEnd}%
+  |gdef|startyaml{%
+    |begingroup
+    |ctxlua{document.markdown_buffering = true}%
+    |setupyaml[jekyllData, expectJekyllData, ensureJekyllData]%
+    |markdownReadAndConvert{\stopyaml}%
+                           {|stopyaml}}%
+  |gdef|stopyaml{%
+    |ctxlua{document.markdown_buffering = false}%
+    |yamlEnd}%
+|endgroup
+\ExplSyntaxOn
+\prop_new:N \g__markdown_context_loaded_themes_linenos_prop
+\prop_new:N \g__markdown_context_loaded_themes_versions_prop
+\cs_gset:Nn
+  \__markdown_load_theme:nnn
+  {
+    \bool_if:nTF
+      {
+        \bool_lazy_or_p:nn
+          {
+            \prop_if_in_p:Nn
+              \g__markdown_context_built_in_themes_prop
+              { #1 }
+          }
+          {
+            \file_if_exist_p:n
+              { t - markdown theme #3.tex }
+          }
+      }
+      {
+        \prop_get:NnNTF
+          \g__markdown_context_loaded_themes_linenos_prop
+          { #1 }
+          \l_tmpa_tl
+          {
+            \prop_get:NnN
+              \g__markdown_context_loaded_themes_versions_prop
+              { #1 }
+              \l_tmpb_tl
+            \str_if_eq:nVTF
+              { #2 }
+              \l_tmpb_tl
+              {
+                \msg_warning:nnnVn
+                  { markdown }
+                  { repeatedly-loaded-context-theme }
+                  { #1 }
+                  \l_tmpa_tl
+                  { #2 }
+              }
+              {
+                \msg_error:nnnnVV
+                  { markdown }
+                  { different-versions-of-context-theme }
+                  { #1 }
+                  { #2 }
+                  \l_tmpb_tl
+                  \l_tmpa_tl
+              }
+          }
+          {
+            \prop_gput:Nnx
+              \g__markdown_context_loaded_themes_linenos_prop
+              { #1 }
+              { \tex_the:D \tex_inputlineno:D }  % noqa: W200
+            \prop_gput:Nnn
+              \g__markdown_context_loaded_themes_versions_prop
+              { #1 }
+              { #2 }
+            \prop_if_in:NnTF
+              \g__markdown_context_built_in_themes_prop
+              { #1 }
+              {
+                \msg_info:nnnn
+                  { markdown }
+                  { loading-built-in-context-theme }
+                  { #1 }
+                  { #2 }
+                \prop_item:Nn
+                  \g__markdown_context_built_in_themes_prop
+                  { #1 }
+              }
+              {
+                \msg_info:nnnn
+                  { markdown }
+                  { loading-context-theme }
+                  { #1 }
+                  { #2 }
+                \usemodule
+                  [ t ]
+                  [ markdown theme #3 ]
+              }
+          }
+      }
+      {
+        \__markdown_plain_tex_load_theme:nnn
+          { #1 }
+          { #2 }
+          { #3 }
+      }
+  }
+\msg_new:nnn
+  { markdown }
+  { loading-built-in-context-theme }
+  { Loading~version~#2~of~built-in~ConTeXt~Markdown~theme~#1 }
+\msg_new:nnn
+  { markdown }
+  { loading-context-theme }
+  { Loading~version~#2~of~ConTeXt~Markdown~theme~#1 }
+\msg_new:nnn
+  { markdown }
+  { repeatedly-loaded-context-theme }
+  {
+    Version~#3~of~ConTeXt~Markdown~theme~#1~was~previously~
+    loaded~on~line~#2,~not~loading~it~again
+  }
+\msg_new:nnn
+  { markdown }
+  { different-versions-of-context-theme }
+  {
+    Tried~to~load~version~#2~of~ConTeXt~Markdown~theme~#1~
+    but~version~#3~has~already~been~loaded~on~line~#4
+  }
+\str_if_eq:VVT
+  \c__markdown_top_layer_tl
+  \c__markdown_option_layer_context_tl
+  {
+    \use:c
+      { ExplSyntaxOff }
+    \__markdown_if_option:nF
+      { noDefaults }
+      {
+        \__markdown_if_option:nTF
+          { experimental }
+          {
+            \__markdown_setup:n
+              { theme = witiko/markdown/defaults@experimental }
+          }
+          {
+            \__markdown_setup:n
+              { theme = witiko/markdown/defaults }
+          }
+      }
+    \use:c
+      { ExplSyntaxOn }
+  }
+\ExplSyntaxOff
+\stopmodule
+\protect
+\endinput
+%%
+%% End of file `t-markdown.tex'.

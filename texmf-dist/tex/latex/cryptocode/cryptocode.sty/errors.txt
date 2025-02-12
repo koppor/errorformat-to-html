@@ -1,0 +1,11 @@
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:778:44:778:44: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:778:45:778:45: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:778:46:778:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:778:49:778:49: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:787:12:787:12: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:787:33:787:33: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:788:12:788:12: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:788:34:788:34: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:802:1:802:160: s103 line too long
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:805:1:805:84: s103 line too long
+texmf-dist/tex/latex/cryptocode/cryptocode.sty:806:1:806:106: s103 line too long

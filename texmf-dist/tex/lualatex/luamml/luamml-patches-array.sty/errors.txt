@@ -1,0 +1,16 @@
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:6:13:6:14: s205 malformed function name
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:21:29:21:29: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:21:32:21:32: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:36:29:36:29: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:36:32:36:32: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:52:29:52:29: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:52:32:52:32: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:78:22:78:22: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:78:27:78:27: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:78:30:78:30: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:78:40:78:40: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:80:16:80:16: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:80:17:80:17: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:80:25:80:25: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:83:23:83:23: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-array.sty:83:35:83:35: s204 missing stylistic whitespaces

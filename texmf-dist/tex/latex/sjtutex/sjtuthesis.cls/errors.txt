@@ -1,0 +1,54 @@
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:75:14:75:27: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:75:14:75:27: w202 deprecated control sequences
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:75:28:75:28: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:183:21:183:34: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:183:21:183:34: w202 deprecated control sequences
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:183:35:183:35: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:296:45:296:56: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:365:25:365:49: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:367:25:367:49: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:369:25:369:49: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:371:25:371:49: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:414:26:414:39: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:415:26:415:44: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:762:37:762:37: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:762:45:762:45: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:866:20:866:21: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:874:8:874:8: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:874:36:874:36: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:955:15:955:16: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:958:23:958:24: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1033:1:1033:82: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1042:1:1042:92: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1071:29:1071:39: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1082:29:1082:39: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1092:29:1092:39: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1110:46:1110:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1110:52:1110:52: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1234:10:1234:24: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1234:38:1234:38: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1234:46:1234:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1234:47:1234:47: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1237:39:1237:39: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1262:1:1262:81: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1264:1:1264:81: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1267:46:1267:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1289:46:1289:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1353:46:1353:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1358:46:1358:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1363:46:1363:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1368:46:1368:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1373:49:1373:49: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1418:21:1418:22: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1424:22:1424:23: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1429:17:1429:18: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1436:45:1436:45: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1451:21:1451:22: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1466:21:1466:22: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1474:39:1474:39: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1482:39:1482:39: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1578:23:1578:24: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1633:44:1633:44: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1685:48:1685:48: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1706:1:1706:82: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtuthesis.cls:1727:19:1727:20: s205 malformed function name

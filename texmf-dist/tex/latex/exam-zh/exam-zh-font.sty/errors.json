@@ -1,0 +1,386 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 228,
+    "end_lnum": 228,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:228:1:228:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 274,
+    "end_lnum": 274,
+    "col": 1,
+    "end_col": 83,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:274:1:274:83: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 293,
+    "end_lnum": 293,
+    "col": 28,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:293:28:293:64: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 294,
+    "end_lnum": 294,
+    "col": 28,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:294:28:294:64: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 295,
+    "end_lnum": 295,
+    "col": 28,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:295:28:295:64: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 296,
+    "end_lnum": 296,
+    "col": 28,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:296:28:296:66: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 318,
+    "end_lnum": 318,
+    "col": 1,
+    "end_col": 91,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:318:1:318:91: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 319,
+    "end_lnum": 319,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:319:1:319:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 323,
+    "end_lnum": 323,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:323:1:323:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 324,
+    "end_lnum": 324,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:324:1:324:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 327,
+    "end_lnum": 327,
+    "col": 1,
+    "end_col": 91,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:327:1:327:91: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 328,
+    "end_lnum": 328,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:328:1:328:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 332,
+    "end_lnum": 332,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:332:1:332:84: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 333,
+    "end_lnum": 333,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:333:1:333:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 344,
+    "end_lnum": 344,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:344:28:344:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 345,
+    "end_lnum": 345,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:345:28:345:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 346,
+    "end_lnum": 346,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:346:28:346:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 347,
+    "end_lnum": 347,
+    "col": 28,
+    "end_col": 72,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:347:28:347:72: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 352,
+    "end_lnum": 352,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:352:28:352:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 353,
+    "end_lnum": 353,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:353:28:353:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 354,
+    "end_lnum": 354,
+    "col": 28,
+    "end_col": 70,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:354:28:354:70: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 607,
+    "end_lnum": 607,
+    "col": 1,
+    "end_col": 136,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:607:1:607:136: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 669,
+    "end_lnum": 669,
+    "col": 1,
+    "end_col": 88,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:669:1:669:88: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/exam-zh/exam-zh-font.sty",
+    "lnum": 677,
+    "end_lnum": 677,
+    "col": 1,
+    "end_col": 84,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/exam-zh/exam-zh-font.sty:677:1:677:84: s103 line too long"
+    ]
+  }
+]

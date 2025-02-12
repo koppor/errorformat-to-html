@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/venturisadf/venturis2.sty",
+    "lnum": 49,
+    "end_lnum": 49,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/venturisadf/venturis2.sty:49:21:49:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/venturisadf/venturis2.sty",
+    "lnum": 50,
+    "end_lnum": 50,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/venturisadf/venturis2.sty:50:22:50:22: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/venturisadf/venturis2.sty",
+    "lnum": 77,
+    "end_lnum": 77,
+    "col": 33,
+    "end_col": 114,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/venturisadf/venturis2.sty:77:33:77:114: s103 line too long"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:1:1:1:1: w100 no standard delimiters
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:22:19:22:20: s205 malformed function name
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:23:19:23:20: s205 malformed function name
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:69:20:69:21: s205 malformed function name
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:70:20:70:21: s205 malformed function name
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:113:24:113:25: s205 malformed function name
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:114:24:114:25: s205 malformed function name
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:117:1:117:85: s103 line too long
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:118:1:118:91: s103 line too long
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:135:1:135:89: s103 line too long
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:141:1:141:85: s103 line too long
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:152:1:152:82: s103 line too long
+texmf-dist/tex/latex/citation-style-language/citation-style-language-compatible.sty:159:1:159:86: s103 line too long

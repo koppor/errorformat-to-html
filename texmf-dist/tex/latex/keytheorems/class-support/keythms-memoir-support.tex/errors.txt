@@ -1,0 +1,6 @@
+texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:20:46:20:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:23:46:23:46: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:35:21:35:22: s205 malformed function name
+texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:36:41:36:41: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:41:25:41:26: s205 malformed function name
+texmf-dist/tex/latex/keytheorems/class-support/keythms-memoir-support.tex:45:45:45:45: s204 missing stylistic whitespaces

@@ -1,0 +1,370 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 72,
+    "end_lnum": 72,
+    "col": 14,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:72:14:72:27: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 72,
+    "end_lnum": 72,
+    "col": 14,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:72:14:72:27: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 72,
+    "end_lnum": 72,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:72:28:72:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 21,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:176:21:176:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 21,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:176:21:176:34: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 176,
+    "end_lnum": 176,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:176:35:176:35: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 294,
+    "end_lnum": 294,
+    "col": 45,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:294:45:294:56: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 621,
+    "end_lnum": 621,
+    "col": 37,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:621:37:621:37: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 621,
+    "end_lnum": 621,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:621:45:621:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 718,
+    "end_lnum": 718,
+    "col": 20,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:718:20:718:21: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 726,
+    "end_lnum": 726,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:726:8:726:8: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 726,
+    "end_lnum": 726,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:726:36:726:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 805,
+    "end_lnum": 805,
+    "col": 15,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:805:15:805:16: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 808,
+    "end_lnum": 808,
+    "col": 23,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:808:23:808:24: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 831,
+    "end_lnum": 831,
+    "col": 24,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:831:24:831:25: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 840,
+    "end_lnum": 840,
+    "col": 28,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:840:28:840:29: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 860,
+    "end_lnum": 860,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:860:1:860:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 862,
+    "end_lnum": 862,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:862:1:862:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 959,
+    "end_lnum": 959,
+    "col": 23,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:959:23:959:24: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 1014,
+    "end_lnum": 1014,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:1014:44:1014:44: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 1066,
+    "end_lnum": 1066,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:1066:48:1066:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 1087,
+    "end_lnum": 1087,
+    "col": 1,
+    "end_col": 82,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:1087:1:1087:82: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/sjtutex/sjtureport.cls",
+    "lnum": 1107,
+    "end_lnum": 1107,
+    "col": 19,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/sjtutex/sjtureport.cls:1107:19:1107:20: s205 malformed function name"
+    ]
+  }
+]

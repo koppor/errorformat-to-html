@@ -1,0 +1,498 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 24,
+    "end_lnum": 24,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:24:17:24:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 24,
+    "end_lnum": 24,
+    "col": 46,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:24:46:24:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 37,
+    "end_lnum": 37,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:37:29:37:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 72,
+    "end_lnum": 72,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:72:53:72:53: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 78,
+    "end_lnum": 78,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:78:43:78:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 79,
+    "end_lnum": 79,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:79:53:79:53: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 84,
+    "end_lnum": 84,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:84:52:84:52: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 86,
+    "end_lnum": 86,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:86:14:86:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 88,
+    "end_lnum": 88,
+    "col": 28,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:88:28:88:54: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 89,
+    "end_lnum": 89,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:89:14:89:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 91,
+    "end_lnum": 91,
+    "col": 12,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:91:12:91:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 94,
+    "end_lnum": 94,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:94:16:94:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 94,
+    "end_lnum": 94,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:94:21:94:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 134,
+    "end_lnum": 134,
+    "col": 43,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:134:43:134:67: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 137,
+    "end_lnum": 137,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:137:22:137:22: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 139,
+    "end_lnum": 139,
+    "col": 36,
+    "end_col": 60,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:139:36:139:60: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 139,
+    "end_lnum": 139,
+    "col": 61,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:139:61:139:61: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 140,
+    "end_lnum": 140,
+    "col": 22,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:140:22:140:22: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 148,
+    "end_lnum": 148,
+    "col": 43,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:148:43:148:67: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 155,
+    "end_lnum": 155,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:155:20:155:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 167,
+    "end_lnum": 167,
+    "col": 54,
+    "end_col": 78,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:167:54:167:78: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 170,
+    "end_lnum": 170,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:170:16:170:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 172,
+    "end_lnum": 172,
+    "col": 30,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:172:30:172:54: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 172,
+    "end_lnum": 172,
+    "col": 55,
+    "end_col": 55,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:172:55:172:55: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 173,
+    "end_lnum": 173,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:173:16:173:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 181,
+    "end_lnum": 181,
+    "col": 39,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:181:39:181:63: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 191,
+    "end_lnum": 191,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:191:16:191:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:196:36:196:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:196:39:196:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:196:45:196:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/notebeamer/notebeamer.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/notebeamer/notebeamer.sty:196:49:196:49: s204 missing stylistic whitespaces"
+    ]
+  }
+]

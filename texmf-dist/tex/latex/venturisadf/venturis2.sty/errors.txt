@@ -1,0 +1,3 @@
+texmf-dist/tex/latex/venturisadf/venturis2.sty:49:21:49:21: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/venturisadf/venturis2.sty:50:22:50:22: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/venturisadf/venturis2.sty:77:33:77:114: s103 line too long

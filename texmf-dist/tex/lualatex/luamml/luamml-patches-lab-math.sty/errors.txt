@@ -1,0 +1,5 @@
+texmf-dist/tex/lualatex/luamml/luamml-patches-lab-math.sty:4:12:4:12: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-lab-math.sty:4:25:4:25: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-lab-math.sty:8:41:8:41: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-lab-math.sty:8:46:8:46: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-patches-lab-math.sty:14:16:14:16: s204 missing stylistic whitespaces

@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/genealogytree/gtrcore.node.code.tex",
+    "lnum": 1312,
+    "end_lnum": 1312,
+    "col": 15,
+    "end_col": 106,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/genealogytree/gtrcore.node.code.tex:1312:15:1312:106: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/genealogytree/gtrcore.node.code.tex",
+    "lnum": 1313,
+    "end_lnum": 1313,
+    "col": 1,
+    "end_col": 118,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/genealogytree/gtrcore.node.code.tex:1313:1:1313:118: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/genealogytree/gtrcore.node.code.tex",
+    "lnum": 1314,
+    "end_lnum": 1314,
+    "col": 1,
+    "end_col": 97,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/genealogytree/gtrcore.node.code.tex:1314:1:1314:97: s103 line too long"
+    ]
+  }
+]

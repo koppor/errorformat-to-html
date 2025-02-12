@@ -1,0 +1,818 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 46,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:45:46:45:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:45:49:45:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 46,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:57:46:57:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:57:49:57:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 69,
+    "end_lnum": 69,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:69:28:69:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 69,
+    "end_lnum": 69,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:69:36:69:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 88,
+    "end_lnum": 88,
+    "col": 46,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:88:46:88:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 88,
+    "end_lnum": 88,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:88:49:88:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 125,
+    "end_lnum": 125,
+    "col": 46,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:125:46:125:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 125,
+    "end_lnum": 125,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:125:49:125:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 137,
+    "end_lnum": 137,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:137:26:137:26: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 137,
+    "end_lnum": 137,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:137:29:137:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:163:43:163:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:163:49:163:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 183,
+    "end_lnum": 183,
+    "col": 46,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:183:46:183:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 183,
+    "end_lnum": 183,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:183:49:183:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 207,
+    "end_lnum": 207,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:207:44:207:44: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 207,
+    "end_lnum": 207,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:207:47:207:47: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 261,
+    "end_lnum": 261,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:261:39:261:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 261,
+    "end_lnum": 261,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:261:44:261:44: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 267,
+    "end_lnum": 267,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:267:14:267:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 279,
+    "end_lnum": 279,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:279:48:279:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 279,
+    "end_lnum": 279,
+    "col": 52,
+    "end_col": 52,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:279:52:279:52: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 283,
+    "end_lnum": 283,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:283:48:283:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 283,
+    "end_lnum": 283,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:283:53:283:53: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 301,
+    "end_lnum": 301,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:301:38:301:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 301,
+    "end_lnum": 301,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:301:41:301:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 308,
+    "end_lnum": 308,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:308:42:308:42: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 308,
+    "end_lnum": 308,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:308:45:308:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 337,
+    "end_lnum": 337,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:337:41:337:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 337,
+    "end_lnum": 337,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:337:49:337:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 346,
+    "end_lnum": 346,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:346:41:346:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 346,
+    "end_lnum": 346,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:346:49:346:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 353,
+    "end_lnum": 353,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:353:20:353:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 353,
+    "end_lnum": 353,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:353:31:353:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 373,
+    "end_lnum": 373,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:373:29:373:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 373,
+    "end_lnum": 373,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:373:32:373:32: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 384,
+    "end_lnum": 384,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:384:29:384:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 384,
+    "end_lnum": 384,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:384:32:384:32: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 389,
+    "end_lnum": 389,
+    "col": 2,
+    "end_col": 2,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:389:2:389:2: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 389,
+    "end_lnum": 389,
+    "col": 3,
+    "end_col": 3,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:389:3:389:3: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 406,
+    "end_lnum": 406,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:406:25:406:25: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 406,
+    "end_lnum": 406,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:406:28:406:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 13,
+    "end_col": 13,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:13:407:13: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 14,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:14:407:14: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 16,
+    "end_col": 16,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:16:407:16: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:18:407:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:40:407:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:41:407:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:43:407:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty",
+    "lnum": 407,
+    "end_lnum": 407,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-patches-amsmath.sty:407:45:407:45: s204 missing stylistic whitespaces"
+    ]
+  }
+]

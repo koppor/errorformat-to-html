@@ -1,0 +1,1170 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 34,
+    "end_lnum": 34,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:34:12:34:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 34,
+    "end_lnum": 34,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:34:15:34:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 42,
+    "end_lnum": 42,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:42:28:42:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:44:12:44:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:44:15:44:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 33,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:44:33:44:33: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 45,
+    "end_lnum": 45,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:45:28:45:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 47,
+    "end_lnum": 47,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:47:12:47:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 47,
+    "end_lnum": 47,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:47:15:47:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 47,
+    "end_lnum": 47,
+    "col": 33,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:47:33:47:33: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 48,
+    "end_lnum": 48,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:48:28:48:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 50,
+    "end_lnum": 50,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:50:12:50:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 50,
+    "end_lnum": 50,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:50:15:50:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 50,
+    "end_lnum": 50,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:50:28:50:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 51,
+    "end_lnum": 51,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:51:28:51:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 53,
+    "end_lnum": 53,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:53:12:53:14: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 53,
+    "end_lnum": 53,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:53:15:53:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:54:12:54:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:54:15:54:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 35,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:54:35:54:37: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:54:38:54:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 56,
+    "end_lnum": 56,
+    "col": 12,
+    "end_col": 14,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:56:12:56:14: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 56,
+    "end_lnum": 56,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:56:15:56:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 15,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:57:15:57:17: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:57:18:57:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 57,
+    "end_lnum": 57,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:57:48:57:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 58,
+    "end_lnum": 58,
+    "col": 32,
+    "end_col": 32,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:58:32:58:32: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 44,
+    "end_col": 46,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:59:44:59:46: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:59:47:59:47: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 58,
+    "end_col": 58,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:59:58:59:58: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 60,
+    "end_lnum": 60,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:60:4:60:4: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 60,
+    "end_lnum": 60,
+    "col": 5,
+    "end_col": 5,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:60:5:60:5: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 62,
+    "end_lnum": 62,
+    "col": 28,
+    "end_col": 28,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:62:28:62:28: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 69,
+    "end_lnum": 69,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:69:6:69:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 79,
+    "end_lnum": 79,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:79:6:79:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 89,
+    "end_lnum": 89,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:89:6:89:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 97,
+    "end_lnum": 97,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:97:6:97:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 105,
+    "end_lnum": 105,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:105:6:105:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 113,
+    "end_lnum": 113,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:113:6:113:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 121,
+    "end_lnum": 121,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:121:23:121:23: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 121,
+    "end_lnum": 121,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:121:24:121:24: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 124,
+    "end_lnum": 124,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:124:23:124:23: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 124,
+    "end_lnum": 124,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:124:24:124:24: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 127,
+    "end_lnum": 127,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:127:6:127:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 136,
+    "end_lnum": 136,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:136:6:136:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 145,
+    "end_lnum": 145,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:145:6:145:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 154,
+    "end_lnum": 154,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:154:6:154:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:163:6:163:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 174,
+    "end_lnum": 174,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:174:45:174:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 175,
+    "end_lnum": 175,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:175:6:175:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 177,
+    "end_lnum": 177,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:177:39:177:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 178,
+    "end_lnum": 178,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:178:6:178:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 180,
+    "end_lnum": 180,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:180:43:180:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 181,
+    "end_lnum": 181,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:181:6:181:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 183,
+    "end_lnum": 183,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:183:47:183:47: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 184,
+    "end_lnum": 184,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:184:6:184:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 186,
+    "end_lnum": 186,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:186:39:186:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 187,
+    "end_lnum": 187,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:187:6:187:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 189,
+    "end_lnum": 189,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:189:43:189:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 190,
+    "end_lnum": 190,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:190:6:190:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 192,
+    "end_lnum": 192,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:192:40:192:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 193,
+    "end_lnum": 193,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:193:6:193:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 195,
+    "end_lnum": 195,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:195:40:195:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 196,
+    "end_lnum": 196,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:196:6:196:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 198,
+    "end_lnum": 198,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:198:50:198:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 199,
+    "end_lnum": 199,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:199:6:199:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 201,
+    "end_lnum": 201,
+    "col": 54,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:201:54:201:54: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 202,
+    "end_lnum": 202,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:202:6:202:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 204,
+    "end_lnum": 204,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:204:50:204:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 205,
+    "end_lnum": 205,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:205:6:205:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 207,
+    "end_lnum": 207,
+    "col": 54,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:207:54:207:54: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 208,
+    "end_lnum": 208,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:208:6:208:6: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/temporal-logic/temporal-logic.sty",
+    "lnum": 211,
+    "end_lnum": 211,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/temporal-logic/temporal-logic.sty:211:6:211:6: s204 missing stylistic whitespaces"
+    ]
+  }
+]

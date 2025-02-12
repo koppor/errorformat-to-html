@@ -1,0 +1,14 @@
+texmf-dist/tex/latex/microtype/microtype.sty:735:37:735:37: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:735:52:735:52: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:735:82:735:82: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:736:33:736:33: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:736:34:736:34: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:736:54:736:54: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:736:55:736:55: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:736:70:736:70: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:736:100:736:100: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:737:39:737:39: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:737:54:737:54: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:737:84:737:84: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/microtype/microtype.sty:766:1:766:97: s103 line too long
+texmf-dist/tex/latex/microtype/microtype.sty:767:1:767:88: s103 line too long

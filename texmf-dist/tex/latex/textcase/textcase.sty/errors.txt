@@ -1,0 +1,5 @@
+texmf-dist/tex/latex/textcase/textcase.sty:27:8:27:8: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/textcase/textcase.sty:35:4:35:4: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/textcase/textcase.sty:38:4:38:4: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/textcase/textcase.sty:41:4:41:4: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/textcase/textcase.sty:44:4:44:4: s204 missing stylistic whitespaces

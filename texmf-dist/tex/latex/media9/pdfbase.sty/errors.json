@@ -1,0 +1,818 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1438,
+    "end_lnum": 1438,
+    "col": 30,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1438:30:1438:44: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1438,
+    "end_lnum": 1438,
+    "col": 47,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1438:47:1438:64: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1439,
+    "end_lnum": 1439,
+    "col": 30,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1439:30:1439:48: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1439,
+    "end_lnum": 1439,
+    "col": 49,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1439:49:1439:66: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1445,
+    "end_lnum": 1445,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1445:5:1445:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1459,
+    "end_lnum": 1459,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1459:5:1459:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1461,
+    "end_lnum": 1461,
+    "col": 10,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1461:10:1461:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1465,
+    "end_lnum": 1465,
+    "col": 5,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1465:5:1465:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1468,
+    "end_lnum": 1468,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1468:5:1468:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1470,
+    "end_lnum": 1470,
+    "col": 7,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1470:7:1470:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1474,
+    "end_lnum": 1474,
+    "col": 5,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1474:5:1474:25: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1480,
+    "end_lnum": 1480,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1480:5:1480:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1485,
+    "end_lnum": 1485,
+    "col": 5,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1485:5:1485:21: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1491,
+    "end_lnum": 1491,
+    "col": 5,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1491:5:1491:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1499,
+    "end_lnum": 1499,
+    "col": 5,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1499:5:1499:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1501,
+    "end_lnum": 1501,
+    "col": 7,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1501:7:1501:25: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1503,
+    "end_lnum": 1503,
+    "col": 5,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1503:5:1503:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1510,
+    "end_lnum": 1510,
+    "col": 5,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1510:5:1510:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1515,
+    "end_lnum": 1515,
+    "col": 5,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1515:5:1515:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1517,
+    "end_lnum": 1517,
+    "col": 7,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1517:7:1517:22: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1521,
+    "end_lnum": 1521,
+    "col": 5,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1521:5:1521:19: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1531,
+    "end_lnum": 1531,
+    "col": 5,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1531:5:1531:18: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1532,
+    "end_lnum": 1532,
+    "col": 9,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1532:9:1532:20: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1537,
+    "end_lnum": 1537,
+    "col": 5,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1537:5:1537:23: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1543,
+    "end_lnum": 1543,
+    "col": 5,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 102,
+    "pattern": "",
+    "text": "expl3 material in non-expl3 parts",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1543:5:1543:24: e102 expl3 material in non-expl3 parts"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1564,
+    "end_lnum": 1565,
+    "col": 1,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 104,
+    "pattern": "",
+    "text": "multiple delimiters `\\ProvidesExpl*` in a single file",
+    "type": 101,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1564:1:1565:53: e104 multiple delimiters `\\ProvidesExpl*` in a single file"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 163,
+    "end_lnum": 164,
+    "col": 1,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 101,
+    "pattern": "",
+    "text": "unexpected delimiters",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:163:1:164:53: w101 unexpected delimiters"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 655,
+    "end_lnum": 655,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:655:1:655:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1370,
+    "end_lnum": 1370,
+    "col": 1,
+    "end_col": 103,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1370:1:1370:103: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1372,
+    "end_lnum": 1372,
+    "col": 1,
+    "end_col": 129,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1372:1:1372:129: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1373,
+    "end_lnum": 1373,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1373:1:1373:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1374,
+    "end_lnum": 1374,
+    "col": 1,
+    "end_col": 129,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1374:1:1374:129: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1375,
+    "end_lnum": 1375,
+    "col": 1,
+    "end_col": 85,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1375:1:1375:85: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1376,
+    "end_lnum": 1376,
+    "col": 1,
+    "end_col": 105,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1376:1:1376:105: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1377,
+    "end_lnum": 1377,
+    "col": 1,
+    "end_col": 129,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1377:1:1377:129: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1378,
+    "end_lnum": 1378,
+    "col": 1,
+    "end_col": 108,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1378:1:1378:108: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1379,
+    "end_lnum": 1379,
+    "col": 1,
+    "end_col": 94,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1379:1:1379:94: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1380,
+    "end_lnum": 1380,
+    "col": 1,
+    "end_col": 129,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1380:1:1380:129: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1390,
+    "end_lnum": 1390,
+    "col": 1,
+    "end_col": 95,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1390:1:1390:95: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1392,
+    "end_lnum": 1392,
+    "col": 1,
+    "end_col": 135,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1392:1:1392:135: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1393,
+    "end_lnum": 1393,
+    "col": 1,
+    "end_col": 86,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1393:1:1393:86: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1394,
+    "end_lnum": 1394,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1394:1:1394:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1395,
+    "end_lnum": 1395,
+    "col": 1,
+    "end_col": 135,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1395:1:1395:135: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1396,
+    "end_lnum": 1396,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1396:1:1396:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1397,
+    "end_lnum": 1397,
+    "col": 1,
+    "end_col": 135,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1397:1:1397:135: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1399,
+    "end_lnum": 1399,
+    "col": 1,
+    "end_col": 135,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1399:1:1399:135: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1400,
+    "end_lnum": 1400,
+    "col": 1,
+    "end_col": 96,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1400:1:1400:96: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1401,
+    "end_lnum": 1401,
+    "col": 1,
+    "end_col": 135,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1401:1:1401:135: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1403,
+    "end_lnum": 1403,
+    "col": 1,
+    "end_col": 135,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1403:1:1403:135: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 1613,
+    "end_lnum": 1613,
+    "col": 1,
+    "end_col": 89,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:1613:1:1613:89: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/media9/pdfbase.sty",
+    "lnum": 2018,
+    "end_lnum": 2018,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/media9/pdfbase.sty:2018:1:2018:81: s103 line too long"
+    ]
+  }
+]

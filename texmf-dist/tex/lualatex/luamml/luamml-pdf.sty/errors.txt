@@ -1,0 +1,40 @@
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:53:53:53:53: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:53:54:53:54: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:54:8:54:8: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:54:9:54:9: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:59:20:59:20: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:59:21:59:21: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:60:17:60:17: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:60:19:60:19: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:61:19:61:19: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:61:21:61:21: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:62:25:62:25: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:62:27:62:27: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:82:1:82:98: s103 line too long
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:96:14:96:34: s206 malformed variable or constant name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:100:19:100:37: s206 malformed variable or constant name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:100:19:100:37: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:101:19:101:39: s206 malformed variable or constant name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:101:19:101:39: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:103:7:103:22: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:107:17:107:37: s205 malformed function name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:111:33:111:54: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:112:19:112:40: s206 malformed variable or constant name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:112:19:112:40: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:113:19:113:37: s206 malformed variable or constant name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:113:19:113:37: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:114:19:114:39: s206 malformed variable or constant name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:114:19:114:39: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:115:7:115:22: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:116:19:116:40: s206 malformed variable or constant name
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:116:19:116:40: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:124:3:124:19: w202 deprecated control sequences
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:142:3:142:19: w202 deprecated control sequences
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:151:24:151:33: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:151:63:151:63: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:187:45:187:45: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:187:48:187:48: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:26:194:26: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:42:194:42: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:45:194:45: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:51:194:51: s204 missing stylistic whitespaces

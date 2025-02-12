@@ -1,0 +1,4 @@
+texmf-dist/tex/latex/proflycee/proflycee-tools-aleatoire.tex:66:36:66:36: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/proflycee/proflycee-tools-aleatoire.tex:66:37:66:37: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/proflycee/proflycee-tools-aleatoire.tex:75:38:75:38: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/proflycee/proflycee-tools-aleatoire.tex:75:39:75:39: s204 missing stylistic whitespaces

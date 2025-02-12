@@ -1,0 +1,18 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/rmathbr/rmathbr.sty",
+    "lnum": 125,
+    "end_lnum": 125,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/rmathbr/rmathbr.sty:125:38:125:38: s204 missing stylistic whitespaces"
+    ]
+  }
+]

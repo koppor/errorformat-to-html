@@ -1,0 +1,19 @@
+texmf-dist/tex/lualatex/luamml/luamml.sty:61:53:61:53: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:61:54:61:54: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:62:8:62:8: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:62:9:62:9: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:74:1:74:98: s103 line too long
+texmf-dist/tex/lualatex/luamml/luamml.sty:83:1:83:98: s103 line too long
+texmf-dist/tex/lualatex/luamml/luamml.sty:106:29:106:42: w200 "do not use" argument specifiers
+texmf-dist/tex/lualatex/luamml/luamml.sty:118:26:118:26: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:118:42:118:42: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:118:45:118:45: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:118:51:118:51: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:127:28:127:28: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:127:35:127:35: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:128:28:128:28: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:128:35:128:35: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:129:28:129:28: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:129:37:129:37: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:130:28:130:28: s204 missing stylistic whitespaces
+texmf-dist/tex/lualatex/luamml/luamml.sty:130:33:130:33: s204 missing stylistic whitespaces

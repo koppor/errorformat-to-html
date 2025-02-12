@@ -1,0 +1,642 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 53,
+    "end_lnum": 53,
+    "col": 53,
+    "end_col": 53,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:53:53:53:53: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 53,
+    "end_lnum": 53,
+    "col": 54,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:53:54:53:54: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:54:8:54:8: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 54,
+    "end_lnum": 54,
+    "col": 9,
+    "end_col": 9,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:54:9:54:9: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:59:20:59:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 59,
+    "end_lnum": 59,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:59:21:59:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 60,
+    "end_lnum": 60,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:60:17:60:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 60,
+    "end_lnum": 60,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:60:19:60:19: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 61,
+    "end_lnum": 61,
+    "col": 19,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:61:19:61:19: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 61,
+    "end_lnum": 61,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:61:21:61:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 62,
+    "end_lnum": 62,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:62:25:62:25: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 62,
+    "end_lnum": 62,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:62:27:62:27: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 82,
+    "end_lnum": 82,
+    "col": 1,
+    "end_col": 98,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:82:1:82:98: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 96,
+    "end_lnum": 96,
+    "col": 14,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:96:14:96:34: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 19,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:100:19:100:37: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 100,
+    "end_lnum": 100,
+    "col": 19,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:100:19:100:37: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 19,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:101:19:101:39: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 101,
+    "end_lnum": 101,
+    "col": 19,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:101:19:101:39: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 103,
+    "end_lnum": 103,
+    "col": 7,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:103:7:103:22: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 107,
+    "end_lnum": 107,
+    "col": 17,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:107:17:107:37: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 111,
+    "end_lnum": 111,
+    "col": 33,
+    "end_col": 54,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:111:33:111:54: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 112,
+    "end_lnum": 112,
+    "col": 19,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:112:19:112:40: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 112,
+    "end_lnum": 112,
+    "col": 19,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:112:19:112:40: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 113,
+    "end_lnum": 113,
+    "col": 19,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:113:19:113:37: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 113,
+    "end_lnum": 113,
+    "col": 19,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:113:19:113:37: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 19,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:114:19:114:39: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 19,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:114:19:114:39: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 115,
+    "end_lnum": 115,
+    "col": 7,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:115:7:115:22: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 116,
+    "end_lnum": 116,
+    "col": 19,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 206,
+    "pattern": "",
+    "text": "malformed variable or constant name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:116:19:116:40: s206 malformed variable or constant name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 116,
+    "end_lnum": 116,
+    "col": 19,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 200,
+    "pattern": "",
+    "text": "\"do not use\" argument specifiers",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:116:19:116:40: w200 \"do not use\" argument specifiers"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 124,
+    "end_lnum": 124,
+    "col": 3,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:124:3:124:19: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 142,
+    "end_lnum": 142,
+    "col": 3,
+    "end_col": 19,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:142:3:142:19: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 151,
+    "end_lnum": 151,
+    "col": 24,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:151:24:151:33: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 151,
+    "end_lnum": 151,
+    "col": 63,
+    "end_col": 63,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:151:63:151:63: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 187,
+    "end_lnum": 187,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:187:45:187:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 187,
+    "end_lnum": 187,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:187:48:187:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 194,
+    "end_lnum": 194,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:26:194:26: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 194,
+    "end_lnum": 194,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:42:194:42: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 194,
+    "end_lnum": 194,
+    "col": 45,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:45:194:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/lualatex/luamml/luamml-pdf.sty",
+    "lnum": 194,
+    "end_lnum": 194,
+    "col": 51,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/lualatex/luamml/luamml-pdf.sty:194:51:194:51: s204 missing stylistic whitespaces"
+    ]
+  }
+]

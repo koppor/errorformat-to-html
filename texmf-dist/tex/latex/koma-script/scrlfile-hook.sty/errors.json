@@ -1,0 +1,754 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 179,
+    "end_lnum": 179,
+    "col": 1,
+    "end_col": 81,
+    "vcol": false,
+    "nr": 103,
+    "pattern": "",
+    "text": "line too long",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:179:1:179:81: s103 line too long"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 195,
+    "end_lnum": 195,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:195:24:195:24: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 213,
+    "end_lnum": 213,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:213:26:213:26: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 227,
+    "end_lnum": 227,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:227:35:227:35: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 227,
+    "end_lnum": 227,
+    "col": 37,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:227:37:227:37: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 227,
+    "end_lnum": 227,
+    "col": 64,
+    "end_col": 64,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:227:64:227:64: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 228,
+    "end_lnum": 228,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:228:34:228:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 228,
+    "end_lnum": 228,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:228:36:228:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 228,
+    "end_lnum": 228,
+    "col": 37,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:228:37:228:37: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 228,
+    "end_lnum": 228,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:228:38:228:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 229,
+    "end_lnum": 229,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:229:29:229:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 229,
+    "end_lnum": 229,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:229:47:229:47: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 229,
+    "end_lnum": 229,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:229:48:229:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 229,
+    "end_lnum": 229,
+    "col": 66,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:229:66:229:66: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 229,
+    "end_lnum": 229,
+    "col": 67,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:229:67:229:67: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 231,
+    "end_lnum": 231,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:231:36:231:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 231,
+    "end_lnum": 231,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:231:38:231:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 231,
+    "end_lnum": 231,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:231:39:231:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 231,
+    "end_lnum": 231,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:231:40:231:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 232,
+    "end_lnum": 232,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:232:29:232:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 232,
+    "end_lnum": 232,
+    "col": 47,
+    "end_col": 47,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:232:47:232:47: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 232,
+    "end_lnum": 232,
+    "col": 48,
+    "end_col": 48,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:232:48:232:48: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 232,
+    "end_lnum": 232,
+    "col": 66,
+    "end_col": 66,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:232:66:232:66: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 232,
+    "end_lnum": 232,
+    "col": 67,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:232:67:232:67: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 234,
+    "end_lnum": 234,
+    "col": 37,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:234:37:234:37: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 234,
+    "end_lnum": 234,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:234:39:234:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 234,
+    "end_lnum": 234,
+    "col": 68,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:234:68:234:68: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 36,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:235:36:235:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 37,
+    "end_col": 37,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:235:37:235:37: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:235:38:235:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 235,
+    "end_lnum": 235,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:235:39:235:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 236,
+    "end_lnum": 236,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:236:31:236:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 236,
+    "end_lnum": 236,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:236:49:236:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 236,
+    "end_lnum": 236,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:236:50:236:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 38,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:238:38:238:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:238:40:238:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 41,
+    "end_col": 41,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:238:41:238:41: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 238,
+    "end_lnum": 238,
+    "col": 42,
+    "end_col": 42,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:238:42:238:42: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 239,
+    "end_lnum": 239,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:239:31:239:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 239,
+    "end_lnum": 239,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:239:49:239:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 239,
+    "end_lnum": 239,
+    "col": 50,
+    "end_col": 50,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:239:50:239:50: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 302,
+    "end_lnum": 302,
+    "col": 23,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:302:23:302:43: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 302,
+    "end_lnum": 302,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:302:44:302:44: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 305,
+    "end_lnum": 305,
+    "col": 61,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:305:61:305:61: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 23,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 205,
+    "pattern": "",
+    "text": "malformed function name",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:315:23:315:43: s205 malformed function name"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 315,
+    "end_lnum": 315,
+    "col": 44,
+    "end_col": 44,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:315:44:315:44: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty",
+    "lnum": 318,
+    "end_lnum": 318,
+    "col": 61,
+    "end_col": 61,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/koma-script/scrlfile-hook.sty:318:61:318:61: s204 missing stylistic whitespaces"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/textcase/textcase.sty",
+    "lnum": 27,
+    "end_lnum": 27,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/textcase/textcase.sty:27:8:27:8: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/textcase/textcase.sty",
+    "lnum": 35,
+    "end_lnum": 35,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/textcase/textcase.sty:35:4:35:4: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/textcase/textcase.sty",
+    "lnum": 38,
+    "end_lnum": 38,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/textcase/textcase.sty:38:4:38:4: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/textcase/textcase.sty",
+    "lnum": 41,
+    "end_lnum": 41,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/textcase/textcase.sty:41:4:41:4: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/latex/textcase/textcase.sty",
+    "lnum": 44,
+    "end_lnum": 44,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/textcase/textcase.sty:44:4:44:4: s204 missing stylistic whitespaces"
+    ]
+  }
+]

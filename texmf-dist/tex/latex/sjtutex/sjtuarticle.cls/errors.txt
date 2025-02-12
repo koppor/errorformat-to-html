@@ -1,0 +1,22 @@
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:70:14:70:27: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:70:14:70:27: w202 deprecated control sequences
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:70:28:70:28: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:168:21:168:34: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:168:21:168:34: w202 deprecated control sequences
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:168:35:168:35: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:282:45:282:56: w200 "do not use" argument specifiers
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:595:37:595:37: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:595:45:595:45: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:691:20:691:21: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:699:8:699:8: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:699:36:699:36: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:775:15:775:16: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:778:23:778:24: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:801:24:801:25: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:810:28:810:29: s206 malformed variable or constant name
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:830:1:830:81: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:832:1:832:81: s103 line too long
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:929:23:929:24: s205 malformed function name
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:981:44:981:44: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:1033:48:1033:48: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/sjtutex/sjtuarticle.cls:1054:1:1054:82: s103 line too long
