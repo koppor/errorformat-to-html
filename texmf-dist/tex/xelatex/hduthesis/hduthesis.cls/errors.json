@@ -1,0 +1,546 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 27,
+    "end_lnum": 27,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:27:21:27:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 27,
+    "end_lnum": 27,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:27:31:27:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 28,
+    "end_lnum": 28,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:28:24:28:24: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 28,
+    "end_lnum": 28,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:28:29:28:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 29,
+    "end_lnum": 29,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:29:29:29:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 29,
+    "end_lnum": 29,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:29:35:29:35: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 31,
+    "end_lnum": 31,
+    "col": 17,
+    "end_col": 17,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:31:17:31:17: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 31,
+    "end_lnum": 31,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:31:25:31:25: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 32,
+    "end_lnum": 32,
+    "col": 20,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:32:20:32:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 32,
+    "end_lnum": 32,
+    "col": 29,
+    "end_col": 29,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:32:29:32:29: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 33,
+    "end_lnum": 33,
+    "col": 4,
+    "end_col": 4,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:33:4:33:4: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 33,
+    "end_lnum": 33,
+    "col": 56,
+    "end_col": 56,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:33:56:33:56: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 76,
+    "end_lnum": 76,
+    "col": 23,
+    "end_col": 23,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:76:23:76:23: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 76,
+    "end_lnum": 76,
+    "col": 51,
+    "end_col": 51,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:76:51:76:51: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 77,
+    "end_lnum": 77,
+    "col": 24,
+    "end_col": 24,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:77:24:77:24: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 78,
+    "end_lnum": 78,
+    "col": 8,
+    "end_col": 8,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:78:8:78:8: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 78,
+    "end_lnum": 78,
+    "col": 19,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 202,
+    "pattern": "",
+    "text": "deprecated control sequences",
+    "type": 119,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:78:19:78:35: w202 deprecated control sequences"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 78,
+    "end_lnum": 78,
+    "col": 49,
+    "end_col": 49,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:78:49:78:49: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 109,
+    "end_lnum": 109,
+    "col": 6,
+    "end_col": 22,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:109:6:109:22: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 110,
+    "end_lnum": 110,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:110:6:110:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 111,
+    "end_lnum": 111,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:111:6:111:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 112,
+    "end_lnum": 112,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:112:6:112:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 114,
+    "end_lnum": 114,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:114:6:114:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 122,
+    "end_lnum": 122,
+    "col": 15,
+    "end_col": 15,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:122:15:122:15: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 122,
+    "end_lnum": 122,
+    "col": 18,
+    "end_col": 18,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:122:18:122:18: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 152,
+    "end_lnum": 152,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:152:6:152:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 153,
+    "end_lnum": 153,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:153:6:153:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 155,
+    "end_lnum": 155,
+    "col": 6,
+    "end_col": 20,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:155:6:155:20: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 25,
+    "end_col": 25,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:163:25:163:25: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 163,
+    "end_lnum": 163,
+    "col": 33,
+    "end_col": 33,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:163:33:163:33: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 166,
+    "end_lnum": 166,
+    "col": 27,
+    "end_col": 27,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:166:27:166:27: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 166,
+    "end_lnum": 166,
+    "col": 31,
+    "end_col": 31,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:166:31:166:31: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 167,
+    "end_lnum": 167,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:167:35:167:35: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2024/texmf-dist/tex/xelatex/hduthesis/hduthesis.cls",
+    "lnum": 167,
+    "end_lnum": 167,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/xelatex/hduthesis/hduthesis.cls:167:39:167:39: s204 missing stylistic whitespaces"
+    ]
+  }
+]
