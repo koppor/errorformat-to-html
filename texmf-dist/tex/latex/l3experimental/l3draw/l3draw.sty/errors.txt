@@ -1,0 +1,21 @@
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:44:18:44:26: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:49:18:49:26: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:116:12:116:20: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:250:44:250:53: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:252:44:252:53: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:789:69:789:78: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:863:1:863:89: s103 line too long
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:874:1:874:92: s103 line too long
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:895:1:895:92: s103 line too long
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1036:1:1036:83: s103 line too long
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1043:1:1043:81: s103 line too long
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1310:39:1310:48: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1312:39:1312:48: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1362:31:1362:47: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1375:31:1375:47: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1761:42:1761:42: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1772:24:1772:33: s206 malformed variable or constant name
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1963:10:1963:29: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1965:10:1965:29: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1972:40:1972:58: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty:1973:40:1973:58: s204 missing stylistic whitespaces

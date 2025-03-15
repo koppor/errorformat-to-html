@@ -1,0 +1,210 @@
+[
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 261,
+    "end_lnum": 261,
+    "col": 26,
+    "end_col": 26,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:261:26:261:26: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 262,
+    "end_lnum": 262,
+    "col": 16,
+    "end_col": 38,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:262:16:262:38: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 262,
+    "end_lnum": 262,
+    "col": 39,
+    "end_col": 39,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:262:39:262:39: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 262,
+    "end_lnum": 262,
+    "col": 40,
+    "end_col": 40,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:262:40:262:40: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 263,
+    "end_lnum": 263,
+    "col": 43,
+    "end_col": 43,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:263:43:263:43: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 264,
+    "end_lnum": 264,
+    "col": 21,
+    "end_col": 21,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:21:264:21: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 264,
+    "end_lnum": 264,
+    "col": 34,
+    "end_col": 34,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:34:264:34: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 264,
+    "end_lnum": 264,
+    "col": 35,
+    "end_col": 35,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:35:264:35: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 264,
+    "end_lnum": 264,
+    "col": 67,
+    "end_col": 67,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:67:264:67: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 264,
+    "end_lnum": 264,
+    "col": 68,
+    "end_col": 68,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:68:264:68: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 265,
+    "end_lnum": 265,
+    "col": 19,
+    "end_col": 36,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:265:19:265:36: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 267,
+    "end_lnum": 267,
+    "col": 23,
+    "end_col": 45,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:267:23:267:45: s204 missing stylistic whitespaces"
+    ]
+  },
+  {
+    "filename": "/tmp/texlive/usr/local/texlive/2025/texmf-dist/tex/latex/eqnlines/eqnlines.sty",
+    "lnum": 268,
+    "end_lnum": 268,
+    "col": 6,
+    "end_col": 6,
+    "vcol": false,
+    "nr": 204,
+    "pattern": "",
+    "text": "missing stylistic whitespaces",
+    "type": 115,
+    "valid": true,
+    "lines": [
+      "texmf-dist/tex/latex/eqnlines/eqnlines.sty:268:6:268:6: s204 missing stylistic whitespaces"
+    ]
+  }
+]

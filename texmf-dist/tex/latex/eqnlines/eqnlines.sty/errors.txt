@@ -1,0 +1,13 @@
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:261:26:261:26: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:262:16:262:38: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:262:39:262:39: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:262:40:262:40: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:263:43:263:43: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:21:264:21: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:34:264:34: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:35:264:35: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:67:264:67: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:264:68:264:68: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:265:19:265:36: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:267:23:267:45: s204 missing stylistic whitespaces
+texmf-dist/tex/latex/eqnlines/eqnlines.sty:268:6:268:6: s204 missing stylistic whitespaces
